@@ -1,0 +1,26 @@
+{# Load the tag library #}
+{% load bootstrap4 %}
+
+{# Load CSS and JavaScript #}
+{% bootstrap_css %}
+{% bootstrap_javascript jquery='full' %}
+{# Display a form #}
+
+<div class="container">
+<h1> Players </h1>
+<p> A list of players</p>
+<table class="table table-striped">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Class</th>
+      </tr>
+    </thead>
+{% for player in player_list %}
+    <tr>
+      <td>{{ player.name }}</td>
+      <td>{{ player.player_class.name }}</td>
+    </tr>
+{% endfor %}
+</table>
+</div>

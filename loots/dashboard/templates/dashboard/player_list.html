@@ -1,0 +1,22 @@
+{%extends "dashboard/base.html" %}
+
+{% block content %}
+<div class="container">
+<h1> Players </h1>
+<p> A list of players</p>
+<table class="table table-striped">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Class</th>
+      </tr>
+    </thead>
+{% for player in object_list %}
+    <tr>
+      <td>{{ player.name }}</td>
+      <td>{{ player.player_class.name }}</td>
+    </tr>
+{% endfor %}
+</table>
+</div>
+{% endblock %}
