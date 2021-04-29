@@ -1,0 +1,1257 @@
+---
+- model: dashboard.Item
+  pk: 28529
+  fields:
+    slot: 1
+    wowhead_link: "https://tbc.wowhead.com/item=28529/royal-cloak-of-arathi-kings"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_cape_10.gif"
+    name: "Royal Cloak of Arathi Kings"
+    dropped_by: 1
+- model: dashboard.Item
+  pk: 28570
+  fields:
+    slot: 1
+    wowhead_link: "https://tbc.wowhead.com/item=28570/shadow-cloak-of-dalaran"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_cape_20.gif"
+    name: "Shadow-Cloak of Dalaran"
+    dropped_by: 1
+- model: dashboard.Item
+  pk: 28582
+  fields:
+    slot: 1
+    wowhead_link: "https://tbc.wowhead.com/item=28582/red-riding-hoods-cloak"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_cape_18.gif"
+    name: "Red Riding Hood's Cloak"
+    dropped_by: 2
+- model: dashboard.Item
+  pk: 28764
+  fields:
+    slot: 1
+    wowhead_link: "https://tbc.wowhead.com/item=28764/farstrider-wildercloak"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_cape_17.gif"
+    name: "Farstrider Wildercloak"
+    dropped_by: 3
+- model: dashboard.Item
+  pk: 28765
+  fields:
+    slot: 1
+    wowhead_link: "https://tbc.wowhead.com/item=28765/stainless-cloak-of-the-pure-hearted"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_cape_06.gif"
+    name: "Stainless Cloak of the Pure Hearted"
+    dropped_by: 3
+- model: dashboard.Item
+  pk: 28766
+  fields:
+    slot: 1
+    wowhead_link: "https://tbc.wowhead.com/item=28766/ruby-drape-of-the-mysticant"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_cape_18.gif"
+    name: "Ruby Drape of the Mysticant"
+    dropped_by: 3
+- model: dashboard.Item
+  pk: 28672
+  fields:
+    slot: 1
+    wowhead_link: "https://tbc.wowhead.com/item=28672/drape-of-the-dark-reavers"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_cape_10.gif"
+    name: "Drape of the Dark Reavers"
+    dropped_by: 4
+- model: dashboard.Item
+  pk: 28653
+  fields:
+    slot: 1
+    wowhead_link: "https://tbc.wowhead.com/item=28653/shadowvine-cloak-of-infusion"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_cape_05.gif"
+    name: "Shadowvine Cloak of Infusion"
+    dropped_by: 5
+- model: dashboard.Item
+  pk: 28660
+  fields:
+    slot: 1
+    wowhead_link: "https://tbc.wowhead.com/item=28660/gilded-thorium-cloak"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_cape_20.gif"
+    name: "Gilded Thorium Cloak"
+    dropped_by: 5
+- model: dashboard.Item
+  pk: 28509
+  fields:
+    slot: 2
+    wowhead_link: "https://tbc.wowhead.com/item=28509/worgen-claw-necklace"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_jewelry_necklace_22.gif"
+    name: "Worgen Claw Necklace"
+    dropped_by: 6
+- model: dashboard.Item
+  pk: 28745
+  fields:
+    slot: 2
+    wowhead_link: "https://tbc.wowhead.com/item=28745/mithril-chain-of-heroism"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_jewelry_necklace_06.gif"
+    name: "Mithril Chain of Heroism"
+    dropped_by: 7
+- model: dashboard.Item
+  pk: 28516
+  fields:
+    slot: 2
+    wowhead_link: "https://tbc.wowhead.com/item=28516/barbed-choker-of-discipline"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_jewelry_necklace_ahnqiraj_02.gif"
+    name: "Barbed Choker of Discipline"
+    dropped_by: 8
+- model: dashboard.Item
+  pk: 28530
+  fields:
+    slot: 2
+    wowhead_link: "https://tbc.wowhead.com/item=28530/brooch-of-unquenchable-fury"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_jewelry_necklace_ahnqiraj_04.gif"
+    name: "Brooch of Unquenchable Fury"
+    dropped_by: 1
+- model: dashboard.Item
+  pk: 28731
+  fields:
+    slot: 2
+    wowhead_link: "https://tbc.wowhead.com/item=28731/shining-chain-of-the-afterworld"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_jewelry_necklace_32.gif"
+    name: "Shining Chain of the Afterworld"
+    dropped_by: 9
+- model: dashboard.Item
+  pk: 28609
+  fields:
+    slot: 2
+    wowhead_link: "https://tbc.wowhead.com/item=28609/emberspur-talisman"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_jewelry_necklace_17.gif"
+    name: "Emberspur Talisman"
+    dropped_by: 10
+- model: dashboard.Item
+  pk: 28762
+  fields:
+    slot: 2
+    wowhead_link: "https://tbc.wowhead.com/item=28762/adornment-of-stolen-souls"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_jewelry_necklace_29naxxramas.gif"
+    name: "Adornment of Stolen Souls"
+    dropped_by: 3
+- model: dashboard.Item
+  pk: 28674
+  fields:
+    slot: 2
+    wowhead_link: "https://tbc.wowhead.com/item=28674/saberclaw-talisman"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_jewelry_necklace_34.gif"
+    name: "Saberclaw Talisman"
+    dropped_by: 4
+- model: dashboard.Item
+  pk: 28510
+  fields:
+    slot: 3
+    wowhead_link: "https://tbc.wowhead.com/item=28510/spectral-band-of-innervation"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_jewelry_ring_31.gif"
+    name: "Spectral Band of Innervation"
+    dropped_by: 6
+- model: dashboard.Item
+  pk: 28753
+  fields:
+    slot: 3
+    wowhead_link: "https://tbc.wowhead.com/item=28753/ring-of-recurrence"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_jewelry_ring_15.gif"
+    name: "Ring of Recurrence"
+    dropped_by: 7
+- model: dashboard.Item
+  pk: 28730
+  fields:
+    slot: 3
+    wowhead_link: "https://tbc.wowhead.com/item=28730/mithril-band-of-the-unscarred"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_jewelry_ring_24.gif"
+    name: "Mithril Band of the Unscarred"
+    dropped_by: 9
+- model: dashboard.Item
+  pk: 28757
+  fields:
+    slot: 3
+    wowhead_link: "https://tbc.wowhead.com/item=28757/ring-of-a-thousand-marks"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_jewelry_ring_ahnqiraj_05.gif"
+    name: "Ring of a Thousand Marks"
+    dropped_by: 3
+- model: dashboard.Item
+  pk: 28763
+  fields:
+    slot: 3
+    wowhead_link: "https://tbc.wowhead.com/item=28763/jade-ring-of-the-everliving"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_jewelry_ring_08.gif"
+    name: "Jade Ring of the Everliving"
+    dropped_by: 3
+- model: dashboard.Item
+  pk: 28675
+  fields:
+    slot: 3
+    wowhead_link: "https://tbc.wowhead.com/item=28675/shermanar-great-ring"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_jewelry_ring_19.gif"
+    name: "Shermanar Great-Ring"
+    dropped_by: 4
+- model: dashboard.Item
+  pk: 28661
+  fields:
+    slot: 3
+    wowhead_link: "https://tbc.wowhead.com/item=28661/menders-heart-ring"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_jewelry_ring_36.gif"
+    name: "Mender's Heart-Ring"
+    dropped_by: 5
+- model: dashboard.Item
+  pk: 28649
+  fields:
+    slot: 3
+    wowhead_link: "https://tbc.wowhead.com/item=28649/garonas-signet-ring"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_jewelry_ring_47.gif"
+    name: "Garona's Signet Ring"
+    dropped_by: 11
+- model: dashboard.Item
+  pk: 28602
+  fields:
+    slot: 10
+    wowhead_link: "https://tbc.wowhead.com/item=28602/robe-of-the-elder-scribes"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_chest_cloth_12.gif"
+    name: "Robe of the Elder Scribes"
+    dropped_by: 10
+- model: dashboard.Item
+  pk: 28578
+  fields:
+    slot: 10
+    wowhead_link: "https://tbc.wowhead.com/item=28578/masquerade-gown"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_chest_cloth_43.gif"
+    name: "Masquerade Gown"
+    dropped_by: 12
+- model: dashboard.Item
+  pk: 28517
+  fields:
+    slot: 4
+    wowhead_link: "https://tbc.wowhead.com/item=28517/boots-of-foretelling"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_boots_cloth_05.gif"
+    name: "Boots of Foretelling"
+    dropped_by: 8
+- model: dashboard.Item
+  pk: 28585
+  fields:
+    slot: 4
+    wowhead_link: "https://tbc.wowhead.com/item=28585/ruby-slippers"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_boots_cloth_09.gif"
+    name: "Ruby Slippers"
+    dropped_by: 13
+- model: dashboard.Item
+  pk: 30680
+  fields:
+    slot: 4
+    wowhead_link: "https://tbc.wowhead.com/item=30680/gliders-foot-wraps"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_boots_05.gif"
+    name: "Glider's Foot-Wraps"
+    dropped_by: 14
+- model: dashboard.Item
+  pk: 28663
+  fields:
+    slot: 4
+    wowhead_link: "https://tbc.wowhead.com/item=28663/boots-of-the-incorrupt"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_boots_fabric_01.gif"
+    name: "Boots of the Incorrupt"
+    dropped_by: 4
+- model: dashboard.Item
+  pk: 28670
+  fields:
+    slot: 4
+    wowhead_link: "https://tbc.wowhead.com/item=28670/boots-of-the-infernal-coven"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_boots_05.gif"
+    name: "Boots of the Infernal Coven"
+    dropped_by: 4
+- model: dashboard.Item
+  pk: 28507
+  fields:
+    slot: 11
+    wowhead_link: "https://tbc.wowhead.com/item=28507/handwraps-of-flowing-thought"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_gauntlets_17.gif"
+    name: "Handwraps of Flowing Thought"
+    dropped_by: 6
+- model: dashboard.Item
+  pk: 28508
+  fields:
+    slot: 11
+    wowhead_link: "https://tbc.wowhead.com/item=28508/gloves-of-saintly-blessings"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_gauntlets_17.gif"
+    name: "Gloves of Saintly Blessings"
+    dropped_by: 6
+- model: dashboard.Item
+  pk: 28756
+  fields:
+    slot: 5
+    wowhead_link: "https://tbc.wowhead.com/item=28756/headdress-of-the-high-potentate"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_crown_01.gif"
+    name: "Headdress of the High Potentate"
+    dropped_by: 7
+- model: dashboard.Item
+  pk: 28744
+  fields:
+    slot: 5
+    wowhead_link: "https://tbc.wowhead.com/item=28744/uni-mind-headdress"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_helmet_53.gif"
+    name: "Uni-Mind Headdress"
+    dropped_by: 9
+- model: dashboard.Item
+  pk: 28586
+  fields:
+    slot: 5
+    wowhead_link: "https://tbc.wowhead.com/item=28586/wicked-witchs-hat"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_helmet_30.gif"
+    name: "Wicked Witch's Hat"
+    dropped_by: 13
+- model: dashboard.Item
+  pk: 28742
+  fields:
+    slot: 6
+    wowhead_link: "https://tbc.wowhead.com/item=28742/pantaloons-of-repentance"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_pants_cloth_13.gif"
+    name: "Pantaloons of Repentance"
+    dropped_by: 9
+- model: dashboard.Item
+  pk: 28594
+  fields:
+    slot: 6
+    wowhead_link: "https://tbc.wowhead.com/item=28594/trial-fire-trousers"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_pants_cloth_05.gif"
+    name: "Trial-Fire Trousers"
+    dropped_by: 15
+- model: dashboard.Item
+  pk: 28726
+  fields:
+    slot: 7
+    wowhead_link: "https://tbc.wowhead.com/item=28726/mantle-of-the-mind-flayer"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_shoulder_25.gif"
+    name: "Mantle of the Mind Flayer"
+    dropped_by: 4
+- model: dashboard.Item
+  pk: 28612
+  fields:
+    slot: 7
+    wowhead_link: "https://tbc.wowhead.com/item=28612/pauldrons-of-the-solace-giver"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_shoulder_25.gif"
+    name: "Pauldrons of the Solace-Giver"
+    dropped_by: 11
+- model: dashboard.Item
+  pk: 28565
+  fields:
+    slot: 8
+    wowhead_link: "https://tbc.wowhead.com/item=28565/nethershard-girdle"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_belt_08.gif"
+    name: "Nethershard Girdle"
+    dropped_by: 1
+- model: dashboard.Item
+  pk: 30675
+  fields:
+    slot: 8
+    wowhead_link: "https://tbc.wowhead.com/item=30675/lurkers-cord"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_belt_03.gif"
+    name: "Lurker's Cord"
+    dropped_by: 16
+- model: dashboard.Item
+  pk: 28652
+  fields:
+    slot: 8
+    wowhead_link: "https://tbc.wowhead.com/item=28652/cincture-of-will"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_belt_08.gif"
+    name: "Cincture of Will"
+    dropped_by: 5
+- model: dashboard.Item
+  pk: 28654
+  fields:
+    slot: 8
+    wowhead_link: "https://tbc.wowhead.com/item=28654/malefic-girdle"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_belt_03.gif"
+    name: "Malefic Girdle"
+    dropped_by: 5
+- model: dashboard.Item
+  pk: 28477
+  fields:
+    slot: 9
+    wowhead_link: "https://tbc.wowhead.com/item=28477/harbinger-bands"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_bracer_13.gif"
+    name: "Harbinger Bands"
+    dropped_by: 6
+- model: dashboard.Item
+  pk: 28511
+  fields:
+    slot: 9
+    wowhead_link: "https://tbc.wowhead.com/item=28511/bands-of-indwelling"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_bracer_13.gif"
+    name: "Bands of Indwelling"
+    dropped_by: 8
+- model: dashboard.Item
+  pk: 28515
+  fields:
+    slot: 9
+    wowhead_link: "https://tbc.wowhead.com/item=28515/bands-of-nefarious-deeds"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_bracer_13.gif"
+    name: "Bands of Nefarious Deeds"
+    dropped_by: 8
+- model: dashboard.Item
+  pk: 30684
+  fields:
+    slot: 9
+    wowhead_link: "https://tbc.wowhead.com/item=30684/ravagers-cuffs"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_bracer_10.gif"
+    name: "Ravager's Cuffs"
+    dropped_by: 17
+- model: dashboard.Item
+  pk: 28600
+  fields:
+    slot: 10
+    wowhead_link: "https://tbc.wowhead.com/item=28600/stonebough-jerkin"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_chest_leather_07.gif"
+    name: "Stonebough Jerkin"
+    dropped_by: 10
+- model: dashboard.Item
+  pk: 28601
+  fields:
+    slot: 10
+    wowhead_link: "https://tbc.wowhead.com/item=28601/chestguard-of-the-conniver"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_chest_leather_06.gif"
+    name: "Chestguard of the Conniver"
+    dropped_by: 10
+- model: dashboard.Item
+  pk: 28752
+  fields:
+    slot: 4
+    wowhead_link: "https://tbc.wowhead.com/item=28752/forestlord-striders"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_boots_chain_05.gif"
+    name: "Forestlord Striders"
+    dropped_by: 7
+- model: dashboard.Item
+  pk: 28545
+  fields:
+    slot: 4
+    wowhead_link: "https://tbc.wowhead.com/item=28545/edgewalker-longboots"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_boots_plate_06.gif"
+    name: "Edgewalker Longboots"
+    dropped_by: 1
+- model: dashboard.Item
+  pk: 30681
+  fields:
+    slot: 4
+    wowhead_link: "https://tbc.wowhead.com/item=30681/gliders-boots"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_boots_05.gif"
+    name: "Glider's Boots"
+    dropped_by: 14
+- model: dashboard.Item
+  pk: 28669
+  fields:
+    slot: 4
+    wowhead_link: "https://tbc.wowhead.com/item=28669/rapscallion-boots"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_boots_plate_06.gif"
+    name: "Rapscallion Boots"
+    dropped_by: 4
+- model: dashboard.Item
+  pk: 28506
+  fields:
+    slot: 11
+    wowhead_link: "https://tbc.wowhead.com/item=28506/gloves-of-dexterous-manipulation"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_gauntlets_28.gif"
+    name: "Gloves of Dexterous Manipulation"
+    dropped_by: 6
+- model: dashboard.Item
+  pk: 28521
+  fields:
+    slot: 11
+    wowhead_link: "https://tbc.wowhead.com/item=28521/mitts-of-the-treemender"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_gauntlets_25.gif"
+    name: "Mitts of the Treemender"
+    dropped_by: 8
+- model: dashboard.Item
+  pk: 28732
+  fields:
+    slot: 5
+    wowhead_link: "https://tbc.wowhead.com/item=28732/cowl-of-defiance"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_helmet_58.gif"
+    name: "Cowl of Defiance"
+    dropped_by: 9
+- model: dashboard.Item
+  pk: 28741
+  fields:
+    slot: 6
+    wowhead_link: "https://tbc.wowhead.com/item=28741/skulkers-greaves"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_pants_leather_13.gif"
+    name: "Skulker's Greaves"
+    dropped_by: 9
+- model: dashboard.Item
+  pk: 28591
+  fields:
+    slot: 6
+    wowhead_link: "https://tbc.wowhead.com/item=28591/earthsoul-leggings"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_pants_mail_15.gif"
+    name: "Earthsoul Leggings"
+    dropped_by: 15
+- model: dashboard.Item
+  pk: 28755
+  fields:
+    slot: 7
+    wowhead_link: "https://tbc.wowhead.com/item=28755/bladed-shoulderpads-of-the-merciless"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_shoulder_29.gif"
+    name: "Bladed Shoulderpads of the Merciless"
+    dropped_by: 7
+- model: dashboard.Item
+  pk: 28647
+  fields:
+    slot: 7
+    wowhead_link: "https://tbc.wowhead.com/item=28647/forest-wind-shoulderpads"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_shoulder_01.gif"
+    name: "Forest Wind Shoulderpads"
+    dropped_by: 11
+- model: dashboard.Item
+  pk: 28750
+  fields:
+    slot: 8
+    wowhead_link: "https://tbc.wowhead.com/item=28750/girdle-of-treachery"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_belt_26.gif"
+    name: "Girdle of Treachery"
+    dropped_by: 7
+- model: dashboard.Item
+  pk: 30676
+  fields:
+    slot: 8
+    wowhead_link: "https://tbc.wowhead.com/item=30676/lurkers-grasp"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_belt_25.gif"
+    name: "Lurker's Grasp"
+    dropped_by: 16
+- model: dashboard.Item
+  pk: 28655
+  fields:
+    slot: 8
+    wowhead_link: "https://tbc.wowhead.com/item=28655/cord-of-natures-sustenance"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_belt_22.gif"
+    name: "Cord of Nature's Sustenance"
+    dropped_by: 5
+- model: dashboard.Item
+  pk: 28453
+  fields:
+    slot: 9
+    wowhead_link: "https://tbc.wowhead.com/item=28453/bracers-of-the-white-stag"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_bracer_02.gif"
+    name: "Bracers of the White Stag"
+    dropped_by: 6
+- model: dashboard.Item
+  pk: 28514
+  fields:
+    slot: 9
+    wowhead_link: "https://tbc.wowhead.com/item=28514/bracers-of-maliciousness"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_bracer_15.gif"
+    name: "Bracers of Maliciousness"
+    dropped_by: 8
+- model: dashboard.Item
+  pk: 30685
+  fields:
+    slot: 9
+    wowhead_link: "https://tbc.wowhead.com/item=30685/ravagers-wrist-wraps"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_bracer_07.gif"
+    name: "Ravager's Wrist-Wraps"
+    dropped_by: 17
+- model: dashboard.Item
+  pk: 28735
+  fields:
+    slot: 10
+    wowhead_link: "https://tbc.wowhead.com/item=28735/earthblood-chestguard"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_chest_plate08.gif"
+    name: "Earthblood Chestguard"
+    dropped_by: 9
+- model: dashboard.Item
+  pk: 28599
+  fields:
+    slot: 10
+    wowhead_link: "https://tbc.wowhead.com/item=28599/scaled-breastplate-of-carnage"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_chest_chain_07.gif"
+    name: "Scaled Breastplate of Carnage"
+    dropped_by: 10
+- model: dashboard.Item
+  pk: 28746
+  fields:
+    slot: 4
+    wowhead_link: "https://tbc.wowhead.com/item=28746/fiend-slayer-boots"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_boots_chain_05.gif"
+    name: "Fiend Slayer Boots"
+    dropped_by: 7
+- model: dashboard.Item
+  pk: 28610
+  fields:
+    slot: 4
+    wowhead_link: "https://tbc.wowhead.com/item=28610/ferocious-swift-kickers"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_boots_chain_04.gif"
+    name: "Ferocious Swift-Kickers"
+    dropped_by: 10
+- model: dashboard.Item
+  pk: 30682
+  fields:
+    slot: 4
+    wowhead_link: "https://tbc.wowhead.com/item=30682/gliders-sabatons"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_boots_chain_05.gif"
+    name: "Glider's Sabatons"
+    dropped_by: 14
+- model: dashboard.Item
+  pk: 28519
+  fields:
+    slot: 11
+    wowhead_link: "https://tbc.wowhead.com/item=28519/gloves-of-quickening"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_gauntlets_25.gif"
+    name: "Gloves of Quickening"
+    dropped_by: 8
+- model: dashboard.Item
+  pk: 28520
+  fields:
+    slot: 11
+    wowhead_link: "https://tbc.wowhead.com/item=28520/gloves-of-centering"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_gauntlets_25.gif"
+    name: "Gloves of Centering"
+    dropped_by: 8
+- model: dashboard.Item
+  pk: 28583
+  fields:
+    slot: 5
+    wowhead_link: "https://tbc.wowhead.com/item=28583/big-bad-wolfs-head"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_helmet_04.gif"
+    name: "Big Bad Wolf's Head"
+    dropped_by: 2
+- model: dashboard.Item
+  pk: 28671
+  fields:
+    slot: 5
+    wowhead_link: "https://tbc.wowhead.com/item=28671/steelspine-faceguard"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_helmet_05.gif"
+    name: "Steelspine Faceguard"
+    dropped_by: 4
+- model: dashboard.Item
+  pk: 28751
+  fields:
+    slot: 6
+    wowhead_link: "https://tbc.wowhead.com/item=28751/heart-flame-leggings"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_pants_mail_15.gif"
+    name: "Heart-Flame Leggings"
+    dropped_by: 7
+- model: dashboard.Item
+  pk: 28740
+  fields:
+    slot: 6
+    wowhead_link: "https://tbc.wowhead.com/item=28740/rip-flayer-leggings"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_pants_plate_02.gif"
+    name: "Rip-Flayer Leggings"
+    dropped_by: 9
+- model: dashboard.Item
+  pk: 28589
+  fields:
+    slot: 7
+    wowhead_link: "https://tbc.wowhead.com/item=28589/beastmaw-pauldrons"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_shoulder_36.gif"
+    name: "Beastmaw Pauldrons"
+    dropped_by: 15
+- model: dashboard.Item
+  pk: 28631
+  fields:
+    slot: 7
+    wowhead_link: "https://tbc.wowhead.com/item=28631/dragon-quake-shoulderguards"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_shoulder_14.gif"
+    name: "Dragon-Quake Shoulderguards"
+    dropped_by: 11
+- model: dashboard.Item
+  pk: 28567
+  fields:
+    slot: 8
+    wowhead_link: "https://tbc.wowhead.com/item=28567/belt-of-gale-force"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_belt_22.gif"
+    name: "Belt of Gale Force"
+    dropped_by: 1
+- model: dashboard.Item
+  pk: 30677
+  fields:
+    slot: 8
+    wowhead_link: "https://tbc.wowhead.com/item=30677/lurkers-belt"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_belt_03.gif"
+    name: "Lurker's Belt"
+    dropped_by: 16
+- model: dashboard.Item
+  pk: 28656
+  fields:
+    slot: 8
+    wowhead_link: "https://tbc.wowhead.com/item=28656/girdle-of-the-prowler"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_belt_22.gif"
+    name: "Girdle of the Prowler"
+    dropped_by: 5
+- model: dashboard.Item
+  pk: 28454
+  fields:
+    slot: 9
+    wowhead_link: "https://tbc.wowhead.com/item=28454/stalkers-war-bands"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_bracer_02.gif"
+    name: "Stalker's War Bands"
+    dropped_by: 6
+- model: dashboard.Item
+  pk: 28503
+  fields:
+    slot: 9
+    wowhead_link: "https://tbc.wowhead.com/item=28503/whirlwind-bracers"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_bracer_02.gif"
+    name: "Whirlwind Bracers"
+    dropped_by: 6
+- model: dashboard.Item
+  pk: 30686
+  fields:
+    slot: 9
+    wowhead_link: "https://tbc.wowhead.com/item=30686/ravagers-bands"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_bracer_02.gif"
+    name: "Ravager's Bands"
+    dropped_by: 17
+- model: dashboard.Item
+  pk: 28597
+  fields:
+    slot: 10
+    wowhead_link: "https://tbc.wowhead.com/item=28597/panzarthar-breastplate"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_chest_plate02.gif"
+    name: "Panzar'Thar Breastplate"
+    dropped_by: 10
+- model: dashboard.Item
+  pk: 28662
+  fields:
+    slot: 10
+    wowhead_link: "https://tbc.wowhead.com/item=28662/breastplate-of-the-lightbinder"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_chest_plate03.gif"
+    name: "Breastplate of the Lightbinder"
+    dropped_by: 5
+- model: dashboard.Item
+  pk: 28747
+  fields:
+    slot: 4
+    wowhead_link: "https://tbc.wowhead.com/item=28747/battlescar-boots"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_boots_plate_06.gif"
+    name: "Battlescar Boots"
+    dropped_by: 7
+- model: dashboard.Item
+  pk: 28569
+  fields:
+    slot: 4
+    wowhead_link: "https://tbc.wowhead.com/item=28569/boots-of-valiance"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_boots_chain_05.gif"
+    name: "Boots of Valiance"
+    dropped_by: 1
+- model: dashboard.Item
+  pk: 28608
+  fields:
+    slot: 4
+    wowhead_link: "https://tbc.wowhead.com/item=28608/ironstriders-of-urgency"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_boots_plate_04.gif"
+    name: "Ironstriders of Urgency"
+    dropped_by: 10
+- model: dashboard.Item
+  pk: 30683
+  fields:
+    slot: 4
+    wowhead_link: "https://tbc.wowhead.com/item=30683/gliders-greaves"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_boots_plate_04.gif"
+    name: "Glider's Greaves"
+    dropped_by: 14
+- model: dashboard.Item
+  pk: 28505
+  fields:
+    slot: 11
+    wowhead_link: "https://tbc.wowhead.com/item=28505/gauntlets-of-renewed-hope"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_gauntlets_25.gif"
+    name: "Gauntlets of Renewed Hope"
+    dropped_by: 6
+- model: dashboard.Item
+  pk: 28518
+  fields:
+    slot: 11
+    wowhead_link: "https://tbc.wowhead.com/item=28518/iron-gauntlets-of-the-maiden"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_gauntlets_31.gif"
+    name: "Iron Gauntlets of the Maiden"
+    dropped_by: 8
+- model: dashboard.Item
+  pk: 28593
+  fields:
+    slot: 5
+    wowhead_link: "https://tbc.wowhead.com/item=28593/eternium-greathelm"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_helmet_03.gif"
+    name: "Eternium Greathelm"
+    dropped_by: 15
+- model: dashboard.Item
+  pk: 28748
+  fields:
+    slot: 6
+    wowhead_link: "https://tbc.wowhead.com/item=28748/legplates-of-the-innocent"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_pants_plate_18.gif"
+    name: "Legplates of the Innocent"
+    dropped_by: 7
+- model: dashboard.Item
+  pk: 28621
+  fields:
+    slot: 6
+    wowhead_link: "https://tbc.wowhead.com/item=28621/wrynn-dynasty-greaves"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_pants_plate_05.gif"
+    name: "Wrynn Dynasty Greaves"
+    dropped_by: 11
+- model: dashboard.Item
+  pk: 28743
+  fields:
+    slot: 7
+    wowhead_link: "https://tbc.wowhead.com/item=28743/mantle-of-abrahmis"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_shoulder_29.gif"
+    name: "Mantle of Abrahmis"
+    dropped_by: 9
+- model: dashboard.Item
+  pk: 28666
+  fields:
+    slot: 7
+    wowhead_link: "https://tbc.wowhead.com/item=28666/pauldrons-of-the-justice-seeker"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_shoulder_35.gif"
+    name: "Pauldrons of the Justice-Seeker"
+    dropped_by: 4
+- model: dashboard.Item
+  pk: 28566
+  fields:
+    slot: 8
+    wowhead_link: "https://tbc.wowhead.com/item=28566/crimson-girdle-of-the-indomitable"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_belt_27.gif"
+    name: "Crimson Girdle of the Indomitable"
+    dropped_by: 1
+- model: dashboard.Item
+  pk: 28733
+  fields:
+    slot: 8
+    wowhead_link: "https://tbc.wowhead.com/item=28733/girdle-of-truth"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_belt_22.gif"
+    name: "Girdle of Truth"
+    dropped_by: 9
+- model: dashboard.Item
+  pk: 30678
+  fields:
+    slot: 8
+    wowhead_link: "https://tbc.wowhead.com/item=30678/lurkers-girdle"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_belt_22.gif"
+    name: "Lurker's Girdle"
+    dropped_by: 16
+- model: dashboard.Item
+  pk: 28502
+  fields:
+    slot: 9
+    wowhead_link: "https://tbc.wowhead.com/item=28502/vambraces-of-courage"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_bracer_19.gif"
+    name: "Vambraces of Courage"
+    dropped_by: 6
+- model: dashboard.Item
+  pk: 28512
+  fields:
+    slot: 9
+    wowhead_link: "https://tbc.wowhead.com/item=28512/bracers-of-justice"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_bracer_02.gif"
+    name: "Bracers of Justice"
+    dropped_by: 8
+- model: dashboard.Item
+  pk: 30687
+  fields:
+    slot: 9
+    wowhead_link: "https://tbc.wowhead.com/item=30687/ravagers-bracers"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_bracer_07.gif"
+    name: "Ravager's Bracers"
+    dropped_by: 17
+- model: dashboard.Item
+  pk: 28524
+  fields:
+    slot: 12
+    wowhead_link: "https://tbc.wowhead.com/item=28524/emerald-ripper"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_weapon_shortblade_38.gif"
+    name: "Emerald Ripper"
+    dropped_by: 1
+- model: dashboard.Item
+  pk: 28572
+  fields:
+    slot: 12
+    wowhead_link: "https://tbc.wowhead.com/item=28572/blade-of-the-unrequited"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_weapon_shortblade_39.gif"
+    name: "Blade of the Unrequited"
+    dropped_by: 12
+- model: dashboard.Item
+  pk: 28768
+  fields:
+    slot: 12
+    wowhead_link: "https://tbc.wowhead.com/item=28768/malchazeen"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_weapon_shortblade_40.gif"
+    name: "Malchazeen"
+    dropped_by: 3
+- model: dashboard.Item
+  pk: 28770
+  fields:
+    slot: 12
+    wowhead_link: "https://tbc.wowhead.com/item=28770/nathrezim-mindblade"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_weapon_shortblade_41.gif"
+    name: "Nathrezim Mindblade"
+    dropped_by: 3
+- model: dashboard.Item
+  pk: 28584
+  fields:
+    slot: 13
+    wowhead_link: "https://tbc.wowhead.com/item=28584/big-bad-wolfs-paw"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_monsterclaw_04.gif"
+    name: "Big Bad Wolf's Paw"
+    dropped_by: 2
+- model: dashboard.Item
+  pk: 28767
+  fields:
+    slot: 14
+    wowhead_link: "https://tbc.wowhead.com/item=28767/the-decapitator"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_axe_66.gif"
+    name: "The Decapitator"
+    dropped_by: 3
+- model: dashboard.Item
+  pk: 28522
+  fields:
+    slot: 15
+    wowhead_link: "https://tbc.wowhead.com/item=28522/shard-of-the-virtuous"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_hammer_26.gif"
+    name: "Shard of the Virtuous"
+    dropped_by: 8
+- model: dashboard.Item
+  pk: 28771
+  fields:
+    slot: 15
+    wowhead_link: "https://tbc.wowhead.com/item=28771/lights-justice"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_mace_46.gif"
+    name: "Light's Justice"
+    dropped_by: 3
+- model: dashboard.Item
+  pk: 28657
+  fields:
+    slot: 15
+    wowhead_link: "https://tbc.wowhead.com/item=28657/fools-bane"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_weapon_shortblade_44.gif"
+    name: "Fool's Bane"
+    dropped_by: 5
+- model: dashboard.Item
+  pk: 28749
+  fields:
+    slot: 16
+    wowhead_link: "https://tbc.wowhead.com/item=28749/kings-defender"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_sword_74.gif"
+    name: "King's Defender"
+    dropped_by: 7
+- model: dashboard.Item
+  pk: 28729
+  fields:
+    slot: 16
+    wowhead_link: "https://tbc.wowhead.com/item=28729/spiteblade"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_sword_74.gif"
+    name: "Spiteblade"
+    dropped_by: 9
+- model: dashboard.Item
+  pk: 28604
+  fields:
+    slot: 17
+    wowhead_link: "https://tbc.wowhead.com/item=28604/nightstaff-of-the-everliving"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_staff_57.gif"
+    name: "Nightstaff of the Everliving"
+    dropped_by: 10
+- model: dashboard.Item
+  pk: 28658
+  fields:
+    slot: 17
+    wowhead_link: "https://tbc.wowhead.com/item=28658/terestians-stranglestaff"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_staff_55.gif"
+    name: "Terestian's Stranglestaff"
+    dropped_by: 5
+- model: dashboard.Item
+  pk: 28633
+  fields:
+    slot: 17
+    wowhead_link: "https://tbc.wowhead.com/item=28633/staff-of-infinite-mysteries"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_weapon_halberd17.gif"
+    name: "Staff of Infinite Mysteries"
+    dropped_by: 11
+- model: dashboard.Item
+  pk: 28587
+  fields:
+    slot: 18
+    wowhead_link: "https://tbc.wowhead.com/item=28587/legacy"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_axe_46.gif"
+    name: "Legacy"
+    dropped_by: 13
+- model: dashboard.Item
+  pk: 28773
+  fields:
+    slot: 18
+    wowhead_link: "https://tbc.wowhead.com/item=28773/gorehowl"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_axe_60.gif"
+    name: "Gorehowl"
+    dropped_by: 3
+- model: dashboard.Item
+  pk: 28573
+  fields:
+    slot: 19
+    wowhead_link: "https://tbc.wowhead.com/item=28573/despair"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_sword_69.gif"
+    name: "Despair"
+    dropped_by: 12
+- model: dashboard.Item
+  pk: 28772
+  fields:
+    slot: 20
+    wowhead_link: "https://tbc.wowhead.com/item=28772/sunfury-bow-of-the-phoenix"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_weapon_bow_18.gif"
+    name: "Sunfury Bow of the Phoenix"
+    dropped_by: 3
+- model: dashboard.Item
+  pk: 28504
+  fields:
+    slot: 21
+    wowhead_link: "https://tbc.wowhead.com/item=28504/steelhawk-crossbow"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_weapon_crossbow_18.gif"
+    name: "Steelhawk Crossbow"
+    dropped_by: 6
+- model: dashboard.Item
+  pk: 28581
+  fields:
+    slot: 22
+    wowhead_link: "https://tbc.wowhead.com/item=28581/wolfslayer-sniper-rifle"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_weapon_rifle_23.gif"
+    name: "Wolfslayer Sniper Rifle"
+    dropped_by: 2
+- model: dashboard.Item
+  pk: 28588
+  fields:
+    slot: 23
+    wowhead_link: "https://tbc.wowhead.com/item=28588/blue-diamond-witchwand"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_wand_16.gif"
+    name: "Blue Diamond Witchwand"
+    dropped_by: 13
+- model: dashboard.Item
+  pk: 28673
+  fields:
+    slot: 23
+    wowhead_link: "https://tbc.wowhead.com/item=28673/tirisfal-wand-of-ascendancy"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_wand_21.gif"
+    name: "Tirisfal Wand of Ascendancy"
+    dropped_by: 4
+- model: dashboard.Item
+  pk: 28525
+  fields:
+    slot: 24
+    wowhead_link: "https://tbc.wowhead.com/item=28525/signet-of-unshakable-faith"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_jewelry_ring_60.gif"
+    name: "Signet of Unshakable Faith"
+    dropped_by: 1
+- model: dashboard.Item
+  pk: 28734
+  fields:
+    slot: 24
+    wowhead_link: "https://tbc.wowhead.com/item=28734/jewel-of-infinite-possibilities"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_gem_ebondraenite_02.gif"
+    name: "Jewel of Infinite Possibilities"
+    dropped_by: 9
+- model: dashboard.Item
+  pk: 28603
+  fields:
+    slot: 24
+    wowhead_link: "https://tbc.wowhead.com/item=28603/talisman-of-nightbane"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_offhand_outlandraid_01.gif"
+    name: "Talisman of Nightbane"
+    dropped_by: 10
+- model: dashboard.Item
+  pk: 28728
+  fields:
+    slot: 24
+    wowhead_link: "https://tbc.wowhead.com/item=28728/arans-soothing-sapphire"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_gem_sapphire_02.gif"
+    name: "Aran's Soothing Sapphire"
+    dropped_by: 4
+- model: dashboard.Item
+  pk: 28754
+  fields:
+    slot: 26
+    wowhead_link: "https://tbc.wowhead.com/item=28754/triptych-shield-of-the-ancients"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_shield_31.gif"
+    name: "Triptych Shield of the Ancients"
+    dropped_by: 7
+- model: dashboard.Item
+  pk: 28606
+  fields:
+    slot: 26
+    wowhead_link: "https://tbc.wowhead.com/item=28606/shield-of-impenetrable-darkness"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_shield_29.gif"
+    name: "Shield of Impenetrable Darkness"
+    dropped_by: 10
+- model: dashboard.Item
+  pk: 28611
+  fields:
+    slot: 26
+    wowhead_link: "https://tbc.wowhead.com/item=28611/dragonheart-flameshield"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_shield_37.gif"
+    name: "Dragonheart Flameshield"
+    dropped_by: 10
+- model: dashboard.Item
+  pk: 28528
+  fields:
+    slot: 25
+    wowhead_link: "https://tbc.wowhead.com/item=28528/moroes-lucky-pocket-watch"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_pocketwatch_02.gif"
+    name: "Moroes' Lucky Pocket Watch"
+    dropped_by: 1
+- model: dashboard.Item
+  pk: 28590
+  fields:
+    slot: 25
+    wowhead_link: "https://tbc.wowhead.com/item=28590/ribbon-of-sacrifice"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_bandage_16.gif"
+    name: "Ribbon of Sacrifice"
+    dropped_by: 15
+- model: dashboard.Item
+  pk: 28579
+  fields:
+    slot: 25
+    wowhead_link: "https://tbc.wowhead.com/item=28579/romulos-poison-vial"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_poison_mindnumbing.gif"
+    name: "Romulo's Poison Vial"
+    dropped_by: 12
+- model: dashboard.Item
+  pk: 28727
+  fields:
+    slot: 25
+    wowhead_link: "https://tbc.wowhead.com/item=28727/pendant-of-the-violet-eye"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_trinket_naxxramas02.gif"
+    name: "Pendant of the Violet Eye"
+    dropped_by: 4
+- model: dashboard.Item
+  pk: 28785
+  fields:
+    slot: 25
+    wowhead_link: "https://tbc.wowhead.com/item=28785/the-lightning-capacitor"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_trinket_naxxramas06.gif"
+    name: "The Lightning Capacitor"
+    dropped_by: 5
+- model: dashboard.Item
+  pk: 30642
+  fields:
+    slot: 1
+    wowhead_link: "https://tbc.wowhead.com/item=30642/drape-of-the-righteous"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_cape_18.gif"
+    name: "Drape of the Righteous"
+    dropped_by: 18
+- model: dashboard.Item
+  pk: 30666
+  fields:
+    slot: 2
+    wowhead_link: "https://tbc.wowhead.com/item=30666/ritssyns-lost-pendant"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_jewelry_necklace_30naxxramas.gif"
+    name: "Ritssyn's Lost Pendant"
+    dropped_by: 18
+- model: dashboard.Item
+  pk: 30667
+  fields:
+    slot: 3
+    wowhead_link: "https://tbc.wowhead.com/item=30667/ring-of-unrelenting-storms"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_jewelry_ring_51naxxramas.gif"
+    name: "Ring of Unrelenting Storms"
+    dropped_by: 18
+- model: dashboard.Item
+  pk: 30668
+  fields:
+    slot: 11
+    wowhead_link: "https://tbc.wowhead.com/item=30668/grasp-of-the-dead"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_gauntlets_17.gif"
+    name: "Grasp of the Dead"
+    dropped_by: 18
+- model: dashboard.Item
+  pk: 30673
+  fields:
+    slot: 8
+    wowhead_link: "https://tbc.wowhead.com/item=30673/inferno-waist-cord"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_belt_03.gif"
+    name: "Inferno Waist Cord"
+    dropped_by: 18
+- model: dashboard.Item
+  pk: 30644
+  fields:
+    slot: 11
+    wowhead_link: "https://tbc.wowhead.com/item=30644/grips-of-deftness"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_gauntlets_28.gif"
+    name: "Grips of Deftness"
+    dropped_by: 18
+- model: dashboard.Item
+  pk: 30674
+  fields:
+    slot: 4
+    wowhead_link: "https://tbc.wowhead.com/item=30674/zierhuts-lost-treads"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_boots_plate_06.gif"
+    name: "Zierhut's Lost Treads"
+    dropped_by: 18
+- model: dashboard.Item
+  pk: 30644
+  fields:
+    slot: 11
+    wowhead_link: "https://tbc.wowhead.com/item=30644/grips-of-deftness"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_gauntlets_28.gif"
+    name: "Grips of Deftness"
+    dropped_by: 18
+- model: dashboard.Item
+  pk: 30674
+  fields:
+    slot: 4
+    wowhead_link: "https://tbc.wowhead.com/item=30674/zierhuts-lost-treads"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_boots_plate_06.gif"
+    name: "Zierhut's Lost Treads"
+    dropped_by: 18
+- model: dashboard.Item
+  pk: 30643
+  fields:
+    slot: 8
+    wowhead_link: "https://tbc.wowhead.com/item=30643/belt-of-the-tracker"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_belt_22.gif"
+    name: "Belt of the Tracker"
+    dropped_by: 18
+- model: dashboard.Item
+  pk: 30641
+  fields:
+    slot: 4
+    wowhead_link: "https://tbc.wowhead.com/item=30641/boots-of-elusion"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_boots_plate_04.gif"
+    name: "Boots of Elusion"
+    dropped_by: 18
+- model: dashboard.Item
+  pk: 29759
+  fields:
+    slot: 5
+    wowhead_link: "https://tbc.wowhead.com/item=29759/helm-of-the-fallen-hero"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_helmet_24.gif"
+    name: "Helm of the Fallen Hero"
+    dropped_by: 3
+- model: dashboard.Item
+  pk: 29760
+  fields:
+    slot: 5
+    wowhead_link: "https://tbc.wowhead.com/item=29760/helm-of-the-fallen-champion"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_helmet_24.gif"
+    name: "Helm of the Fallen Champion"
+    dropped_by: 3
+- model: dashboard.Item
+  pk: 29761
+  fields:
+    slot: 5
+    wowhead_link: "https://tbc.wowhead.com/item=29761/helm-of-the-fallen-defender"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_helmet_24.gif"
+    name: "Helm of the Fallen Defender"
+    dropped_by: 3
+- model: dashboard.Item
+  pk: 29756
+  fields:
+    slot: 11
+    wowhead_link: "https://tbc.wowhead.com/item=29756/gloves-of-the-fallen-hero"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_gauntlets_27.gif"
+    name: "Gloves of the Fallen Hero"
+    dropped_by: 11
+- model: dashboard.Item
+  pk: 29757
+  fields:
+    slot: 11
+    wowhead_link: "https://tbc.wowhead.com/item=29757/gloves-of-the-fallen-champion"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_gauntlets_27.gif"
+    name: "Gloves of the Fallen Champion"
+    dropped_by: 11
+- model: dashboard.Item
+  pk: 29758
+  fields:
+    slot: 11
+    wowhead_link: "https://tbc.wowhead.com/item=29758/gloves-of-the-fallen-defender"
+    icon_link: "https://wow.zamimg.com/images/wow/icons/tiny/inv_gauntlets_27.gif"
+    name: "Gloves of the Fallen Defender"
+    dropped_by: 11

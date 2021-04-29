@@ -2,3 +2,7 @@ django
 django-bootstrap4
 django-bootstrap-form
 django-allauth
+django-pandas
+requests
+requests-oauthlib
+pandas

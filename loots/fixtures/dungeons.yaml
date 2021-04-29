@@ -1,0 +1,13 @@
+---
+- model: dashboard.Dungeon
+  pk: 3836
+  fields:
+    name: Naxxramas
+- model: dashboard.Dungeon
+  pk: 3457
+  fields:
+    name: Karazhan
+- model: dashboard.Dungeon
+  pk: 3923
+  fields:
+    name: Gruul's Lair

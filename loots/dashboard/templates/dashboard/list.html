@@ -1,0 +1,171 @@
+{%extends "dashboard/base.html" %}
+{% load static %}
+
+{% block head_content %}
+<!--wowhead tooltips-->
+<script>const whTooltips = {colorLinks: true, iconizeLinks: true, renameLinks: true, iconSize: 'small'};</script>
+<script src="https://wow.zamimg.com/widgets/power.js"></script>
+
+<!--Datatables -->
+<script type="text/javascript" language="javascript" src="https://cdn.datatables.net/1.10.24/js/jquery.dataTables.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs4/dt-1.10.24/b-1.7.0/sl-1.3.3/datatables.min.css"/>
+<script type="text/javascript" src="https://cdn.datatables.net/v/bs4/dt-1.10.24/b-1.7.0/sl-1.3.3/datatables.min.js"></script>
+
+
+<!--https://johnny.github.io/jquery-sortable/-->
+<script type="text/javascript" language="javascript" src="{% static 'dashboard/jquery-sortable-min.js' %}"></script>
+<style>
+    body.dragging, body.dragging * {
+    cursor: move !important;
+    }
+    ol.vertical li {
+        display: block;
+        margin: 5px;
+        padding: 5px;
+        border: 1px solid #cccccc;
+        color: #0088cc;
+        background: #eeeeee;
+    }
+
+    .dragged {
+    position: absolute;
+    opacity: 0.5;
+    z-index: 2000;
+    }
+
+    ol.sortable {
+        border: 1px solid #999999;
+        padding-inline-start: 0px;
+    }
+
+    ol.sortable li.placeholder {
+    position: relative;
+    /** More li styles **/
+    }
+    ol.sortable li.placeholder:before {
+    position: absolute;
+    /** Define arrowhead **/
+    }
+    table.dataTable tbody>tr.selected {
+        background-color: #000000;
+    }
+</style>
+
+<script>
+    // Enable sortable list
+$(document).ready(function() {
+    $("ol.sortable").sortable();
+
+    var table = $('#datatable').DataTable( {
+        "lengthMenu": [[10, 25, ,50, -1], [10, 25, 50, "All"]],
+        dom:
+                "<'row'<'col-sm-4 text-left'f><'col-sm-5 text-left'B><'col-sm-3 text-left'l>>" +
+                "<'row'<'col-sm-12'tr>>" +
+                "<'row'<'col-sm-5'i><'col-sm-7'p>>", 
+        buttons: [ {
+                text: 'Add',
+                className: 'btn btn-primary btn-sm',
+                action: function ( e, dt, node, config ) {
+                    if ( table.rows( '.selected' ).any() ) {
+                        var count = $("#lootlist li").length;
+                        console.log(count)
+                        if (count < 25) {
+                            var data = table.rows( { selected: true } ).data();
+                            $("#lootlist").append(`<li>${data[0][0]}</li>`);
+                            $WowheadPower.refreshLinks();
+                        } else {
+                            console.log('List is full');
+                        }
+                    } else {
+                        console.log("No row is selected");
+                    }
+                }
+            }
+        ],
+        select: true
+    } );
+
+    $('#datatable').on( 'draw.dt', function () {
+        $WowheadPower.refreshLinks();
+    } );
+
+    $( "#submit_lootlist" ).submit(function( event ) {
+        event.preventDefault();
+        var data = {'items': []};
+        $('#lootlist li').each(function(i) {
+            var element = $(this);
+
+            var item = {
+                'index': i, 
+                'text': element.text(), 
+                'url': element.children()[0].href
+            };
+            data['items'].push(item);
+
+        } );
+        
+        $.ajax({
+            url: '/dashboard/lootlist/',
+            type: 'POST',
+            dataType: 'json',
+            contentType: 'application/json; charset=utf-8',
+            headers: {
+                'X-CSRFToken': '{{ csrf_token }}'
+            },
+            success: function (data) {
+                location.href = "/dashboard/lootlootthanks/"
+            },
+            data: JSON.stringify(data)
+        });
+    });
+} );
+</script>
+{% endblock %}
+
+
+{% block content %}
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <div class="alert alert-secondary" role="alert">
+                <h1>Player LootList Creator</h1>
+                <p class="lead">The loot list submission form.</p>
+                <hr class="my-4"/>
+                <p>Select in order of priority your preferred items.</p>
+                <a class="btn btn-primary" href="dashboard/loot-rules" role="button">View loot rules >></a>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-4">
+            <form id='submit_lootlist' action="/dashboard/lootlist/" method="post">
+                {% csrf_token %}
+                <ol id="lootlist" class='sortable vertical item-selection'></ol>
+                <input type="submit" value="Submit">
+            </form>
+        </div>
+        <div class="col-8">
+            <table class="table table-striped table-sm" id="datatable">
+                <thead class="thead-dark">
+                <tr>
+                    <th>Item</th>
+                    <th>Slot</th>
+                    <th>Dropped By</th>
+                    <th>Raid</th>
+                </tr>
+                </thead>
+                {% for item in item_list %}
+                <tr>
+                    <td><a href="{{ item.wowhead_link }}" class="q4">{{ item.name }}</a></td>
+                    <td>{{ item.slot.name }}</td>
+                    <td>{{ item.dropped_by.name }}</td>
+                    <td>{{ item.dropped_by.dungeon.name }}</td>
+                </tr>
+                {% endfor %}
+            </table>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+

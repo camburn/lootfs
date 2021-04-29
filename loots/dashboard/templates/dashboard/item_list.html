@@ -1,0 +1,52 @@
+{%extends "dashboard/base.html" %}
+{% load static %}
+
+{% block head_content %}
+<link rel="stylesheet" type="text/css" href="https://wow.zamimg.com/css/global/icon.css">
+
+<script type="text/javascript" language="javascript" src="https://cdn.datatables.net/1.10.24/js/jquery.dataTables.min.js"></script>
+<!--
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs4/dt-1.10.24/sl-1.3.3/datatables.min.css"/>
+<script type="text/javascript" src="https://cdn.datatables.net/v/bs4/dt-1.10.24/sl-1.3.3/datatables.min.js"></script>
+-->
+
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs4/dt-1.10.24/b-1.7.0/sl-1.3.3/datatables.min.css"/>
+
+<script type="text/javascript" src="https://cdn.datatables.net/v/bs4/dt-1.10.24/b-1.7.0/sl-1.3.3/datatables.min.js"></script>
+
+<script type="text/javascript" language="javascript" src="{% static 'dashboard/pandas_bootstrap_table.js' %}"></script>
+<script>const whTooltips = {colorLinks: true, iconizeLinks: true, renameLinks: true, iconSize: 'small'};</script>
+<script src="https://wow.zamimg.com/widgets/power.js"></script>
+{% endblock %}
+
+{% block content %}
+<div class="container">
+<h1> Items </h1>
+<p> A list of items</p>
+<table class="table table-striped table-sm" id="datatable">
+    <thead class="thead-dark">
+      <tr>
+        <!--<th>Icon</th>-->
+        <th>Item</th>
+        <th>Slot</th>
+        <th>Dropped By</th>
+        <th>Raid</th>
+      </tr>
+    </thead>
+  {% for item in object_list %}
+    <tr>
+      <!--<td>
+      <span class="iconsmall">
+      <ins style="background-image: url('{{ item.icon_link }}');"></ins>
+      <del></del>
+      </span>
+      </td>-->
+      <td><a href="{{ item.wowhead_link }}" class="q4">{{ item.name }}</a></td>
+      <td>{{ item.slot.name }}</td>
+      <td>{{ item.dropped_by.name }}</td>
+      <td>{{ item.dropped_by.dungeon.name }}</td>
+    </tr>
+  {% endfor %}
+</table>
+</div>
+{% endblock %}

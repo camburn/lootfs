@@ -1,0 +1,91 @@
+---
+- model: dashboard.Boss
+  pk: 1
+  fields:
+    name: "Moroes"
+    dungeon: 3457
+- model: dashboard.Boss
+  pk: 2
+  fields:
+    name: "Opera Event: Red Riding Hood"
+    dungeon: 3457
+- model: dashboard.Boss
+  pk: 3
+  fields:
+    name: "Prince Malchezaar"
+    dungeon: 3457
+- model: dashboard.Boss
+  pk: 4
+  fields:
+    name: "Shade of Aran"
+    dungeon: 3457
+- model: dashboard.Boss
+  pk: 5
+  fields:
+    name: "Terestian Illhoof"
+    dungeon: 3457
+- model: dashboard.Boss
+  pk: 6
+  fields:
+    name: "Attumen the Huntsman"
+    dungeon: 3457
+- model: dashboard.Boss
+  pk: 7
+  fields:
+    name: "Chess Event"
+    dungeon: 3457
+- model: dashboard.Boss
+  pk: 8
+  fields:
+    name: "Maiden of Virtue"
+    dungeon: 3457
+- model: dashboard.Boss
+  pk: 9
+  fields:
+    name: "Netherspite"
+    dungeon: 3457
+- model: dashboard.Boss
+  pk: 10
+  fields:
+    name: "Nightbane"
+    dungeon: 3457
+- model: dashboard.Boss
+  pk: 11
+  fields:
+    name: "The Curator"
+    dungeon: 3457
+- model: dashboard.Boss
+  pk: 12
+  fields:
+    name: "Opera Event: Romulo and Julianne"
+    dungeon: 3457
+- model: dashboard.Boss
+  pk: 13
+  fields:
+    name: "Opera Event: Wizard of Oz"
+    dungeon: 3457
+- model: dashboard.Boss
+  pk: 14
+  fields:
+    name: "Servant Quarters: Shadikith the Glider"
+    dungeon: 3457
+- model: dashboard.Boss
+  pk: 15
+  fields:
+    name: "Opera Event"
+    dungeon: 3457
+- model: dashboard.Boss
+  pk: 16
+  fields:
+    name: "Servant Quarters: Hyakiss the Lurker"
+    dungeon: 3457
+- model: dashboard.Boss
+  pk: 17
+  fields:
+    name: "Servant Quarters: Rokad the Ravager"
+    dungeon: 3457
+- model: dashboard.Boss
+  pk: 18
+  fields:
+    name: "Trash"
+    dungeon: 3457

@@ -1,0 +1,21 @@
+{%extends "dashboard/base.html" %}
+{% load static %}
+
+{% block head_content %}
+<!--<script src="{% static 'dashboard/bootstrap-table.js' %}" ></script>
+-->
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.24/css/dataTables.bootstrap4.min.css">
+<script type="text/javascript" language="javascript" src="https://cdn.datatables.net/1.10.24/js/jquery.dataTables.min.js"></script>
+<script type="text/javascript" language="javascript" src="https://cdn.datatables.net/1.10.24/js/dataTables.bootstrap4.min.js"></script>
+<script type="text/javascript" language="javascript" src="{% static 'dashboard/pandas_bootstrap_table.js' %}"></script>
+{% endblock %}
+
+
+{% block content %}
+<div class="container">
+<h3> Attendance Table </h3>
+
+{% autoescape off %}{{ table_html }}{% endautoescape %}
+
+</div>
+{% endblock %}

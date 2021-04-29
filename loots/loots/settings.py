@@ -36,6 +36,7 @@ INSTALLED_APPS = [
     'bootstrap4',
     'bootstrapform',
     'dashboard.apps.DashboardConfig',
+    'django_tables2',
     'allauth',
     'allauth.account',
     'allauth.socialaccount',

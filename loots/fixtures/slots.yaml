@@ -1,0 +1,105 @@
+---
+- model: dashboard.Slot
+  pk: 1
+  fields:
+    name: Cloak
+- model: dashboard.Slot
+  pk: 2
+  fields:
+    name: Neck
+- model: dashboard.Slot
+  pk: 3
+  fields:
+    name: Ring
+- model: dashboard.Slot
+  pk: 4
+  fields:
+    name: Feet
+- model: dashboard.Slot
+  pk: 5
+  fields:
+    name: Head
+- model: dashboard.Slot
+  pk: 6
+  fields:
+    name: Legs
+- model: dashboard.Slot
+  pk: 7
+  fields:
+    name: Shoulder
+- model: dashboard.Slot
+  pk: 8
+  fields:
+    name: Waist
+- model: dashboard.Slot
+  pk: 9
+  fields:
+    name: Wrist
+- model: dashboard.Slot
+  pk: 10
+  fields:
+    name: Chest
+- model: dashboard.Slot
+  pk: 11
+  fields:
+    name: Hands
+- model: dashboard.Slot
+  pk: 12
+  fields:
+    name: Dagger
+- model: dashboard.Slot
+  pk: 13
+  fields:
+    name: Fist Weapon
+- model: dashboard.Slot
+  pk: 14
+  fields:
+    name: One-Handed Axe
+- model: dashboard.Slot
+  pk: 15
+  fields:
+    name: One-Handed Mace
+- model: dashboard.Slot
+  pk: 16
+  fields:
+    name: One-Handed Sword
+- model: dashboard.Slot
+  pk: 17
+  fields:
+    name: Staff
+- model: dashboard.Slot
+  pk: 18
+  fields:
+    name: Two-Handed Axe
+- model: dashboard.Slot
+  pk: 19
+  fields:
+    name: Two-Handed Sword
+- model: dashboard.Slot
+  pk: 20
+  fields:
+    name: Bow
+- model: dashboard.Slot
+  pk: 21
+  fields:
+    name: Crossbow
+- model: dashboard.Slot
+  pk: 22
+  fields:
+    name: Gun
+- model: dashboard.Slot
+  pk: 23
+  fields:
+    name: Wand
+- model: dashboard.Slot
+  pk: 24
+  fields:
+    name: Off-hand Frill
+- model: dashboard.Slot
+  pk: 25
+  fields:
+    name: Trinket
+- model: dashboard.Slot
+  pk: 26
+  fields:
+    name: Shield

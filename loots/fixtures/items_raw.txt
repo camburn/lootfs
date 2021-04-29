@@ -1,0 +1,1101 @@
+
+
+Cloak
+https://tbc.wowhead.com/item=28529/royal-cloak-of-arathi-kings
+https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_cape_10.gif
+Royal Cloak of Arathi Kings
+Moroes
+
+
+Cloak
+https://tbc.wowhead.com/item=28570/shadow-cloak-of-dalaran
+https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_cape_20.gif
+Shadow-Cloak of Dalaran
+Moroes
+
+
+Cloak
+https://tbc.wowhead.com/item=28582/red-riding-hoods-cloak
+https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_cape_18.gif
+Red Riding Hood's Cloak
+Opera Event: Red Riding Hood
+
+
+Cloak
+https://tbc.wowhead.com/item=28764/farstrider-wildercloak
+https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_cape_17.gif
+Farstrider Wildercloak
+Prince Malchezaar
+
+
+Cloak
+https://tbc.wowhead.com/item=28765/stainless-cloak-of-the-pure-hearted
+https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_cape_06.gif
+Stainless Cloak of the Pure Hearted
+Prince Malchezaar
+
+
+Cloak
+https://tbc.wowhead.com/item=28766/ruby-drape-of-the-mysticant
+https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_cape_18.gif
+Ruby Drape of the Mysticant
+Prince Malchezaar
+
+
+Cloak
+https://tbc.wowhead.com/item=28672/drape-of-the-dark-reavers
+https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_cape_10.gif
+Drape of the Dark Reavers
+Shade of Aran
+
+
+Cloak
+https://tbc.wowhead.com/item=28653/shadowvine-cloak-of-infusion
+https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_cape_05.gif
+Shadowvine Cloak of Infusion
+Terestian Illhoof
+
+
+Cloak
+https://tbc.wowhead.com/item=28660/gilded-thorium-cloak
+https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_cape_20.gif
+Gilded Thorium Cloak
+Terestian Illhoof
+
+
+Neck
+https://tbc.wowhead.com/item=28509/worgen-claw-necklace
+https://wow.zamimg.com/images/wow/icons/tiny/inv_jewelry_necklace_22.gif
+Worgen Claw Necklace
+Attumen the Huntsman
+
+
+Neck
+https://tbc.wowhead.com/item=28745/mithril-chain-of-heroism
+https://wow.zamimg.com/images/wow/icons/tiny/inv_jewelry_necklace_06.gif
+Mithril Chain of Heroism
+Chess Event
+
+
+Neck
+https://tbc.wowhead.com/item=28516/barbed-choker-of-discipline
+https://wow.zamimg.com/images/wow/icons/tiny/inv_jewelry_necklace_ahnqiraj_02.gif
+Barbed Choker of Discipline
+Maiden of Virtue
+
+
+Neck
+https://tbc.wowhead.com/item=28530/brooch-of-unquenchable-fury
+https://wow.zamimg.com/images/wow/icons/tiny/inv_jewelry_necklace_ahnqiraj_04.gif
+Brooch of Unquenchable Fury
+Moroes
+
+
+Neck
+https://tbc.wowhead.com/item=28731/shining-chain-of-the-afterworld
+https://wow.zamimg.com/images/wow/icons/tiny/inv_jewelry_necklace_32.gif
+Shining Chain of the Afterworld
+Netherspite
+
+
+Neck
+https://tbc.wowhead.com/item=28609/emberspur-talisman
+https://wow.zamimg.com/images/wow/icons/tiny/inv_jewelry_necklace_17.gif
+Emberspur Talisman
+Nightbane
+
+
+Neck
+https://tbc.wowhead.com/item=28762/adornment-of-stolen-souls
+https://wow.zamimg.com/images/wow/icons/tiny/inv_jewelry_necklace_29naxxramas.gif
+Adornment of Stolen Souls
+Prince Malchezaar
+
+
+Neck
+https://tbc.wowhead.com/item=28674/saberclaw-talisman
+https://wow.zamimg.com/images/wow/icons/tiny/inv_jewelry_necklace_34.gif
+Saberclaw Talisman
+Shade of Aran
+
+
+Ring
+https://tbc.wowhead.com/item=28510/spectral-band-of-innervation
+https://wow.zamimg.com/images/wow/icons/tiny/inv_jewelry_ring_31.gif
+Spectral Band of Innervation
+Attumen the Huntsman
+
+
+Ring
+https://tbc.wowhead.com/item=28753/ring-of-recurrence
+https://wow.zamimg.com/images/wow/icons/tiny/inv_jewelry_ring_15.gif
+Ring of Recurrence
+Chess Event
+
+
+Ring
+https://tbc.wowhead.com/item=28730/mithril-band-of-the-unscarred
+https://wow.zamimg.com/images/wow/icons/tiny/inv_jewelry_ring_24.gif
+Mithril Band of the Unscarred
+Netherspite
+
+
+Ring
+https://tbc.wowhead.com/item=28757/ring-of-a-thousand-marks
+https://wow.zamimg.com/images/wow/icons/tiny/inv_jewelry_ring_ahnqiraj_05.gif
+Ring of a Thousand Marks
+Prince Malchezaar
+
+
+Ring
+https://tbc.wowhead.com/item=28763/jade-ring-of-the-everliving
+https://wow.zamimg.com/images/wow/icons/tiny/inv_jewelry_ring_08.gif
+Jade Ring of the Everliving
+Prince Malchezaar
+
+
+Ring
+https://tbc.wowhead.com/item=28675/shermanar-great-ring
+https://wow.zamimg.com/images/wow/icons/tiny/inv_jewelry_ring_19.gif
+Shermanar Great-Ring
+Shade of Aran
+
+
+Ring
+https://tbc.wowhead.com/item=28661/menders-heart-ring
+https://wow.zamimg.com/images/wow/icons/tiny/inv_jewelry_ring_36.gif
+Mender's Heart-Ring
+Terestian Illhoof
+
+
+Ring
+https://tbc.wowhead.com/item=28649/garonas-signet-ring
+https://wow.zamimg.com/images/wow/icons/tiny/inv_jewelry_ring_47.gif
+Garona's Signet Ring
+The Curator
+
+
+Chest
+https://tbc.wowhead.com/item=28602/robe-of-the-elder-scribes
+https://wow.zamimg.com/images/wow/icons/tiny/inv_chest_cloth_12.gif
+Robe of the Elder Scribes
+Nightbane
+
+
+Chest
+https://tbc.wowhead.com/item=28578/masquerade-gown
+https://wow.zamimg.com/images/wow/icons/tiny/inv_chest_cloth_43.gif
+Masquerade Gown
+Opera Event: Romulo and Julianne
+
+
+Feet
+https://tbc.wowhead.com/item=28517/boots-of-foretelling
+https://wow.zamimg.com/images/wow/icons/tiny/inv_boots_cloth_05.gif
+Boots of Foretelling
+Maiden of Virtue
+
+
+Feet
+https://tbc.wowhead.com/item=28585/ruby-slippers
+https://wow.zamimg.com/images/wow/icons/tiny/inv_boots_cloth_09.gif
+Ruby Slippers
+Opera Event: Wizard of Oz
+
+
+Feet
+https://tbc.wowhead.com/item=30680/gliders-foot-wraps
+https://wow.zamimg.com/images/wow/icons/tiny/inv_boots_05.gif
+Glider's Foot-Wraps
+Servant Quarters: Shadikith the Glider
+
+
+Feet
+https://tbc.wowhead.com/item=28663/boots-of-the-incorrupt
+https://wow.zamimg.com/images/wow/icons/tiny/inv_boots_fabric_01.gif
+Boots of the Incorrupt
+Shade of Aran
+
+
+Feet
+https://tbc.wowhead.com/item=28670/boots-of-the-infernal-coven
+https://wow.zamimg.com/images/wow/icons/tiny/inv_boots_05.gif
+Boots of the Infernal Coven
+Shade of Aran
+
+
+Hands
+https://tbc.wowhead.com/item=28507/handwraps-of-flowing-thought
+https://wow.zamimg.com/images/wow/icons/tiny/inv_gauntlets_17.gif
+Handwraps of Flowing Thought
+Attumen the Huntsman
+
+
+Hands
+https://tbc.wowhead.com/item=28508/gloves-of-saintly-blessings
+https://wow.zamimg.com/images/wow/icons/tiny/inv_gauntlets_17.gif
+Gloves of Saintly Blessings
+Attumen the Huntsman
+
+
+Head
+https://tbc.wowhead.com/item=28756/headdress-of-the-high-potentate
+https://wow.zamimg.com/images/wow/icons/tiny/inv_crown_01.gif
+Headdress of the High Potentate
+Chess Event
+
+
+Head
+https://tbc.wowhead.com/item=28744/uni-mind-headdress
+https://wow.zamimg.com/images/wow/icons/tiny/inv_helmet_53.gif
+Uni-Mind Headdress
+Netherspite
+
+
+Head
+https://tbc.wowhead.com/item=28586/wicked-witchs-hat
+https://wow.zamimg.com/images/wow/icons/tiny/inv_helmet_30.gif
+Wicked Witch's Hat
+Opera Event: Wizard of Oz
+
+
+Legs
+https://tbc.wowhead.com/item=28742/pantaloons-of-repentance
+https://wow.zamimg.com/images/wow/icons/tiny/inv_pants_cloth_13.gif
+Pantaloons of Repentance
+Netherspite
+
+
+Legs
+https://tbc.wowhead.com/item=28594/trial-fire-trousers
+https://wow.zamimg.com/images/wow/icons/tiny/inv_pants_cloth_05.gif
+Trial-Fire Trousers
+Opera Event
+
+
+Shoulder
+https://tbc.wowhead.com/item=28726/mantle-of-the-mind-flayer
+https://wow.zamimg.com/images/wow/icons/tiny/inv_shoulder_25.gif
+Mantle of the Mind Flayer
+Shade of Aran
+
+
+Shoulder
+https://tbc.wowhead.com/item=28612/pauldrons-of-the-solace-giver
+https://wow.zamimg.com/images/wow/icons/tiny/inv_shoulder_25.gif
+Pauldrons of the Solace-Giver
+The Curator
+
+
+Waist
+https://tbc.wowhead.com/item=28565/nethershard-girdle
+https://wow.zamimg.com/images/wow/icons/tiny/inv_belt_08.gif
+Nethershard Girdle
+Moroes
+
+
+Waist
+https://tbc.wowhead.com/item=30675/lurkers-cord
+https://wow.zamimg.com/images/wow/icons/tiny/inv_belt_03.gif
+Lurker's Cord
+Servant Quarters: Hyakiss the Lurker
+
+
+Waist
+https://tbc.wowhead.com/item=28652/cincture-of-will
+https://wow.zamimg.com/images/wow/icons/tiny/inv_belt_08.gif
+Cincture of Will
+Terestian Illhoof
+
+
+Waist
+https://tbc.wowhead.com/item=28654/malefic-girdle
+https://wow.zamimg.com/images/wow/icons/tiny/inv_belt_03.gif
+Malefic Girdle
+Terestian Illhoof
+
+
+Wrist
+https://tbc.wowhead.com/item=28477/harbinger-bands
+https://wow.zamimg.com/images/wow/icons/tiny/inv_bracer_13.gif
+Harbinger Bands
+Attumen the Huntsman
+
+
+Wrist
+https://tbc.wowhead.com/item=28511/bands-of-indwelling
+https://wow.zamimg.com/images/wow/icons/tiny/inv_bracer_13.gif
+Bands of Indwelling
+Maiden of Virtue
+
+
+Wrist
+https://tbc.wowhead.com/item=28515/bands-of-nefarious-deeds
+https://wow.zamimg.com/images/wow/icons/tiny/inv_bracer_13.gif
+Bands of Nefarious Deeds
+Maiden of Virtue
+
+
+Wrist
+https://tbc.wowhead.com/item=30684/ravagers-cuffs
+https://wow.zamimg.com/images/wow/icons/tiny/inv_bracer_10.gif
+Ravager's Cuffs
+Servant Quarters: Rokad the Ravager
+
+
+Chest
+https://tbc.wowhead.com/item=28600/stonebough-jerkin
+https://wow.zamimg.com/images/wow/icons/tiny/inv_chest_leather_07.gif
+Stonebough Jerkin
+Nightbane
+
+
+Chest
+https://tbc.wowhead.com/item=28601/chestguard-of-the-conniver
+https://wow.zamimg.com/images/wow/icons/tiny/inv_chest_leather_06.gif
+Chestguard of the Conniver
+Nightbane
+
+
+Feet
+https://tbc.wowhead.com/item=28752/forestlord-striders
+https://wow.zamimg.com/images/wow/icons/tiny/inv_boots_chain_05.gif
+Forestlord Striders
+Chess Event
+
+
+Feet
+https://tbc.wowhead.com/item=28545/edgewalker-longboots
+https://wow.zamimg.com/images/wow/icons/tiny/inv_boots_plate_06.gif
+Edgewalker Longboots
+Moroes
+
+
+Feet
+https://tbc.wowhead.com/item=30681/gliders-boots
+https://wow.zamimg.com/images/wow/icons/tiny/inv_boots_05.gif
+Glider's Boots
+Servant Quarters: Shadikith the Glider
+
+
+Feet
+https://tbc.wowhead.com/item=28669/rapscallion-boots
+https://wow.zamimg.com/images/wow/icons/tiny/inv_boots_plate_06.gif
+Rapscallion Boots
+Shade of Aran
+
+
+Hands
+https://tbc.wowhead.com/item=28506/gloves-of-dexterous-manipulation
+https://wow.zamimg.com/images/wow/icons/tiny/inv_gauntlets_28.gif
+Gloves of Dexterous Manipulation
+Attumen the Huntsman
+
+
+Hands
+https://tbc.wowhead.com/item=28521/mitts-of-the-treemender
+https://wow.zamimg.com/images/wow/icons/tiny/inv_gauntlets_25.gif
+Mitts of the Treemender
+Maiden of Virtue
+
+
+Head
+https://tbc.wowhead.com/item=28732/cowl-of-defiance
+https://wow.zamimg.com/images/wow/icons/tiny/inv_helmet_58.gif
+Cowl of Defiance
+Netherspite
+
+
+Legs
+https://tbc.wowhead.com/item=28741/skulkers-greaves
+https://wow.zamimg.com/images/wow/icons/tiny/inv_pants_leather_13.gif
+Skulker's Greaves
+Netherspite
+
+
+Legs
+https://tbc.wowhead.com/item=28591/earthsoul-leggings
+https://wow.zamimg.com/images/wow/icons/tiny/inv_pants_mail_15.gif
+Earthsoul Leggings
+Opera Event
+
+
+Shoulder
+https://tbc.wowhead.com/item=28755/bladed-shoulderpads-of-the-merciless
+https://wow.zamimg.com/images/wow/icons/tiny/inv_shoulder_29.gif
+Bladed Shoulderpads of the Merciless
+Chess Event
+
+
+Shoulder
+https://tbc.wowhead.com/item=28647/forest-wind-shoulderpads
+https://wow.zamimg.com/images/wow/icons/tiny/inv_shoulder_01.gif
+Forest Wind Shoulderpads
+The Curator
+
+
+Waist
+https://tbc.wowhead.com/item=28750/girdle-of-treachery
+https://wow.zamimg.com/images/wow/icons/tiny/inv_belt_26.gif
+Girdle of Treachery
+Chess Event
+
+
+Waist
+https://tbc.wowhead.com/item=30676/lurkers-grasp
+https://wow.zamimg.com/images/wow/icons/tiny/inv_belt_25.gif
+Lurker's Grasp
+Servant Quarters: Hyakiss the Lurker
+
+
+Waist
+https://tbc.wowhead.com/item=28655/cord-of-natures-sustenance
+https://wow.zamimg.com/images/wow/icons/tiny/inv_belt_22.gif
+Cord of Nature's Sustenance
+Terestian Illhoof
+
+
+Wrist
+https://tbc.wowhead.com/item=28453/bracers-of-the-white-stag
+https://wow.zamimg.com/images/wow/icons/tiny/inv_bracer_02.gif
+Bracers of the White Stag
+Attumen the Huntsman
+
+
+Wrist
+https://tbc.wowhead.com/item=28514/bracers-of-maliciousness
+https://wow.zamimg.com/images/wow/icons/tiny/inv_bracer_15.gif
+Bracers of Maliciousness
+Maiden of Virtue
+
+
+Wrist
+https://tbc.wowhead.com/item=30685/ravagers-wrist-wraps
+https://wow.zamimg.com/images/wow/icons/tiny/inv_bracer_07.gif
+Ravager's Wrist-Wraps
+Servant Quarters: Rokad the Ravager
+
+
+Chest
+https://tbc.wowhead.com/item=28735/earthblood-chestguard
+https://wow.zamimg.com/images/wow/icons/tiny/inv_chest_plate08.gif
+Earthblood Chestguard
+Netherspite
+
+
+Chest
+https://tbc.wowhead.com/item=28599/scaled-breastplate-of-carnage
+https://wow.zamimg.com/images/wow/icons/tiny/inv_chest_chain_07.gif
+Scaled Breastplate of Carnage
+Nightbane
+
+
+Feet
+https://tbc.wowhead.com/item=28746/fiend-slayer-boots
+https://wow.zamimg.com/images/wow/icons/tiny/inv_boots_chain_05.gif
+Fiend Slayer Boots
+Chess Event
+
+
+Feet
+https://tbc.wowhead.com/item=28610/ferocious-swift-kickers
+https://wow.zamimg.com/images/wow/icons/tiny/inv_boots_chain_04.gif
+Ferocious Swift-Kickers
+Nightbane
+
+
+Feet
+https://tbc.wowhead.com/item=30682/gliders-sabatons
+https://wow.zamimg.com/images/wow/icons/tiny/inv_boots_chain_05.gif
+Glider's Sabatons
+Servant Quarters: Shadikith the Glider
+
+
+Hands
+https://tbc.wowhead.com/item=28519/gloves-of-quickening
+https://wow.zamimg.com/images/wow/icons/tiny/inv_gauntlets_25.gif
+Gloves of Quickening
+Maiden of Virtue
+
+
+Hands
+https://tbc.wowhead.com/item=28520/gloves-of-centering
+https://wow.zamimg.com/images/wow/icons/tiny/inv_gauntlets_25.gif
+Gloves of Centering
+Maiden of Virtue
+
+
+Head
+https://tbc.wowhead.com/item=28583/big-bad-wolfs-head
+https://wow.zamimg.com/images/wow/icons/tiny/inv_helmet_04.gif
+Big Bad Wolf's Head
+Opera Event: Red Riding Hood
+
+
+Head
+https://tbc.wowhead.com/item=28671/steelspine-faceguard
+https://wow.zamimg.com/images/wow/icons/tiny/inv_helmet_05.gif
+Steelspine Faceguard
+Shade of Aran
+
+
+Legs
+https://tbc.wowhead.com/item=28751/heart-flame-leggings
+https://wow.zamimg.com/images/wow/icons/tiny/inv_pants_mail_15.gif
+Heart-Flame Leggings
+Chess Event
+
+
+Legs
+https://tbc.wowhead.com/item=28740/rip-flayer-leggings
+https://wow.zamimg.com/images/wow/icons/tiny/inv_pants_plate_02.gif
+Rip-Flayer Leggings
+Netherspite
+
+
+Shoulder
+https://tbc.wowhead.com/item=28589/beastmaw-pauldrons
+https://wow.zamimg.com/images/wow/icons/tiny/inv_shoulder_36.gif
+Beastmaw Pauldrons
+Opera Event
+
+
+Shoulder
+https://tbc.wowhead.com/item=28631/dragon-quake-shoulderguards
+https://wow.zamimg.com/images/wow/icons/tiny/inv_shoulder_14.gif
+Dragon-Quake Shoulderguards
+The Curator
+
+
+Waist
+https://tbc.wowhead.com/item=28567/belt-of-gale-force
+https://wow.zamimg.com/images/wow/icons/tiny/inv_belt_22.gif
+Belt of Gale Force
+Moroes
+
+
+Waist
+https://tbc.wowhead.com/item=30677/lurkers-belt
+https://wow.zamimg.com/images/wow/icons/tiny/inv_belt_03.gif
+Lurker's Belt
+Servant Quarters: Hyakiss the Lurker
+
+
+Waist
+https://tbc.wowhead.com/item=28656/girdle-of-the-prowler
+https://wow.zamimg.com/images/wow/icons/tiny/inv_belt_22.gif
+Girdle of the Prowler
+Terestian Illhoof
+
+
+Wrist
+https://tbc.wowhead.com/item=28454/stalkers-war-bands
+https://wow.zamimg.com/images/wow/icons/tiny/inv_bracer_02.gif
+Stalker's War Bands
+Attumen the Huntsman
+
+
+Wrist
+https://tbc.wowhead.com/item=28503/whirlwind-bracers
+https://wow.zamimg.com/images/wow/icons/tiny/inv_bracer_02.gif
+Whirlwind Bracers
+Attumen the Huntsman
+
+
+Wrist
+https://tbc.wowhead.com/item=30686/ravagers-bands
+https://wow.zamimg.com/images/wow/icons/tiny/inv_bracer_02.gif
+Ravager's Bands
+Servant Quarters: Rokad the Ravager
+
+
+Chest
+https://tbc.wowhead.com/item=28597/panzarthar-breastplate
+https://wow.zamimg.com/images/wow/icons/tiny/inv_chest_plate02.gif
+Panzar'Thar Breastplate
+Nightbane
+
+
+Chest
+https://tbc.wowhead.com/item=28662/breastplate-of-the-lightbinder
+https://wow.zamimg.com/images/wow/icons/tiny/inv_chest_plate03.gif
+Breastplate of the Lightbinder
+Terestian Illhoof
+
+
+Feet
+https://tbc.wowhead.com/item=28747/battlescar-boots
+https://wow.zamimg.com/images/wow/icons/tiny/inv_boots_plate_06.gif
+Battlescar Boots
+Chess Event
+
+
+Feet
+https://tbc.wowhead.com/item=28569/boots-of-valiance
+https://wow.zamimg.com/images/wow/icons/tiny/inv_boots_chain_05.gif
+Boots of Valiance
+Moroes
+
+
+Feet
+https://tbc.wowhead.com/item=28608/ironstriders-of-urgency
+https://wow.zamimg.com/images/wow/icons/tiny/inv_boots_plate_04.gif
+Ironstriders of Urgency
+Nightbane
+
+
+Feet
+https://tbc.wowhead.com/item=30683/gliders-greaves
+https://wow.zamimg.com/images/wow/icons/tiny/inv_boots_plate_04.gif
+Glider's Greaves
+Servant Quarters: Shadikith the Glider
+
+
+Hands
+https://tbc.wowhead.com/item=28505/gauntlets-of-renewed-hope
+https://wow.zamimg.com/images/wow/icons/tiny/inv_gauntlets_25.gif
+Gauntlets of Renewed Hope
+Attumen the Huntsman
+
+
+Hands
+https://tbc.wowhead.com/item=28518/iron-gauntlets-of-the-maiden
+https://wow.zamimg.com/images/wow/icons/tiny/inv_gauntlets_31.gif
+Iron Gauntlets of the Maiden
+Maiden of Virtue
+
+
+Head
+https://tbc.wowhead.com/item=28593/eternium-greathelm
+https://wow.zamimg.com/images/wow/icons/tiny/inv_helmet_03.gif
+Eternium Greathelm
+Opera Event
+
+
+Legs
+https://tbc.wowhead.com/item=28748/legplates-of-the-innocent
+https://wow.zamimg.com/images/wow/icons/tiny/inv_pants_plate_18.gif
+Legplates of the Innocent
+Chess Event
+
+
+Legs
+https://tbc.wowhead.com/item=28621/wrynn-dynasty-greaves
+https://wow.zamimg.com/images/wow/icons/tiny/inv_pants_plate_05.gif
+Wrynn Dynasty Greaves
+The Curator
+
+
+Shoulder
+https://tbc.wowhead.com/item=28743/mantle-of-abrahmis
+https://wow.zamimg.com/images/wow/icons/tiny/inv_shoulder_29.gif
+Mantle of Abrahmis
+Netherspite
+
+
+Shoulder
+https://tbc.wowhead.com/item=28666/pauldrons-of-the-justice-seeker
+https://wow.zamimg.com/images/wow/icons/tiny/inv_shoulder_35.gif
+Pauldrons of the Justice-Seeker
+Shade of Aran
+
+
+Waist
+https://tbc.wowhead.com/item=28566/crimson-girdle-of-the-indomitable
+https://wow.zamimg.com/images/wow/icons/tiny/inv_belt_27.gif
+Crimson Girdle of the Indomitable
+Moroes
+
+
+Waist
+https://tbc.wowhead.com/item=28733/girdle-of-truth
+https://wow.zamimg.com/images/wow/icons/tiny/inv_belt_22.gif
+Girdle of Truth
+Netherspite
+
+
+Waist
+https://tbc.wowhead.com/item=30678/lurkers-girdle
+https://wow.zamimg.com/images/wow/icons/tiny/inv_belt_22.gif
+Lurker's Girdle
+Servant Quarters: Hyakiss the Lurker
+
+
+Wrist
+https://tbc.wowhead.com/item=28502/vambraces-of-courage
+https://wow.zamimg.com/images/wow/icons/tiny/inv_bracer_19.gif
+Vambraces of Courage
+Attumen the Huntsman
+
+
+Wrist
+https://tbc.wowhead.com/item=28512/bracers-of-justice
+https://wow.zamimg.com/images/wow/icons/tiny/inv_bracer_02.gif
+Bracers of Justice
+Maiden of Virtue
+
+
+Wrist
+https://tbc.wowhead.com/item=30687/ravagers-bracers
+https://wow.zamimg.com/images/wow/icons/tiny/inv_bracer_07.gif
+Ravager's Bracers
+Servant Quarters: Rokad the Ravager
+
+
+Dagger
+https://tbc.wowhead.com/item=28524/emerald-ripper
+https://wow.zamimg.com/images/wow/icons/tiny/inv_weapon_shortblade_38.gif
+Emerald Ripper
+Moroes
+
+
+Dagger
+https://tbc.wowhead.com/item=28572/blade-of-the-unrequited
+https://wow.zamimg.com/images/wow/icons/tiny/inv_weapon_shortblade_39.gif
+Blade of the Unrequited
+Opera Event: Romulo and Julianne
+
+
+Dagger
+https://tbc.wowhead.com/item=28768/malchazeen
+https://wow.zamimg.com/images/wow/icons/tiny/inv_weapon_shortblade_40.gif
+Malchazeen
+Prince Malchezaar
+
+
+Dagger
+https://tbc.wowhead.com/item=28770/nathrezim-mindblade
+https://wow.zamimg.com/images/wow/icons/tiny/inv_weapon_shortblade_41.gif
+Nathrezim Mindblade
+Prince Malchezaar
+
+
+Fist Weapon
+https://tbc.wowhead.com/item=28584/big-bad-wolfs-paw
+https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_monsterclaw_04.gif
+Big Bad Wolf's Paw
+Opera Event: Red Riding Hood
+
+
+One-Handed Axe
+https://tbc.wowhead.com/item=28767/the-decapitator
+https://wow.zamimg.com/images/wow/icons/tiny/inv_axe_66.gif
+The Decapitator
+Prince Malchezaar
+
+
+One-Handed Mace
+https://tbc.wowhead.com/item=28522/shard-of-the-virtuous
+https://wow.zamimg.com/images/wow/icons/tiny/inv_hammer_26.gif
+Shard of the Virtuous
+Maiden of Virtue
+
+
+One-Handed Mace
+https://tbc.wowhead.com/item=28771/lights-justice
+https://wow.zamimg.com/images/wow/icons/tiny/inv_mace_46.gif
+Light's Justice
+Prince Malchezaar
+
+
+One-Handed Mace
+https://tbc.wowhead.com/item=28657/fools-bane
+https://wow.zamimg.com/images/wow/icons/tiny/inv_weapon_shortblade_44.gif
+Fool's Bane
+Terestian Illhoof
+
+
+One-Handed Sword
+https://tbc.wowhead.com/item=28749/kings-defender
+https://wow.zamimg.com/images/wow/icons/tiny/inv_sword_74.gif
+King's Defender
+Chess Event
+
+
+One-Handed Sword
+https://tbc.wowhead.com/item=28729/spiteblade
+https://wow.zamimg.com/images/wow/icons/tiny/inv_sword_74.gif
+Spiteblade
+Netherspite
+
+
+Staff
+https://tbc.wowhead.com/item=28604/nightstaff-of-the-everliving
+https://wow.zamimg.com/images/wow/icons/tiny/inv_staff_57.gif
+Nightstaff of the Everliving
+Nightbane
+
+
+Staff
+https://tbc.wowhead.com/item=28658/terestians-stranglestaff
+https://wow.zamimg.com/images/wow/icons/tiny/inv_staff_55.gif
+Terestian's Stranglestaff
+Terestian Illhoof
+
+
+Staff
+https://tbc.wowhead.com/item=28633/staff-of-infinite-mysteries
+https://wow.zamimg.com/images/wow/icons/tiny/inv_weapon_halberd17.gif
+Staff of Infinite Mysteries
+The Curator
+
+
+Two-Handed Axe
+https://tbc.wowhead.com/item=28587/legacy
+https://wow.zamimg.com/images/wow/icons/tiny/inv_axe_46.gif
+Legacy
+Opera Event: Wizard of Oz
+
+
+Two-Handed Axe
+https://tbc.wowhead.com/item=28773/gorehowl
+https://wow.zamimg.com/images/wow/icons/tiny/inv_axe_60.gif
+Gorehowl
+Prince Malchezaar
+
+
+Two-Handed Sword
+https://tbc.wowhead.com/item=28573/despair
+https://wow.zamimg.com/images/wow/icons/tiny/inv_sword_69.gif
+Despair
+Opera Event: Romulo and Julianne
+
+
+Bow
+https://tbc.wowhead.com/item=28772/sunfury-bow-of-the-phoenix
+https://wow.zamimg.com/images/wow/icons/tiny/inv_weapon_bow_18.gif
+Sunfury Bow of the Phoenix
+Prince Malchezaar
+
+
+Crossbow
+https://tbc.wowhead.com/item=28504/steelhawk-crossbow
+https://wow.zamimg.com/images/wow/icons/tiny/inv_weapon_crossbow_18.gif
+Steelhawk Crossbow
+Attumen the Huntsman
+
+
+Gun
+https://tbc.wowhead.com/item=28581/wolfslayer-sniper-rifle
+https://wow.zamimg.com/images/wow/icons/tiny/inv_weapon_rifle_23.gif
+Wolfslayer Sniper Rifle
+Opera Event: Red Riding Hood
+
+
+Wand
+https://tbc.wowhead.com/item=28588/blue-diamond-witchwand
+https://wow.zamimg.com/images/wow/icons/tiny/inv_wand_16.gif
+Blue Diamond Witchwand
+Opera Event: Wizard of Oz
+
+
+Wand
+https://tbc.wowhead.com/item=28673/tirisfal-wand-of-ascendancy
+https://wow.zamimg.com/images/wow/icons/tiny/inv_wand_21.gif
+Tirisfal Wand of Ascendancy
+Shade of Aran
+
+
+Off-hand Frill
+https://tbc.wowhead.com/item=28525/signet-of-unshakable-faith
+https://wow.zamimg.com/images/wow/icons/tiny/inv_jewelry_ring_60.gif
+Signet of Unshakable Faith
+Moroes
+
+
+Off-hand Frill
+https://tbc.wowhead.com/item=28734/jewel-of-infinite-possibilities
+https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_gem_ebondraenite_02.gif
+Jewel of Infinite Possibilities
+Netherspite
+
+
+Off-hand Frill
+https://tbc.wowhead.com/item=28603/talisman-of-nightbane
+https://wow.zamimg.com/images/wow/icons/tiny/inv_offhand_outlandraid_01.gif
+Talisman of Nightbane
+Nightbane
+
+
+Off-hand Frill
+https://tbc.wowhead.com/item=28728/arans-soothing-sapphire
+https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_gem_sapphire_02.gif
+Aran's Soothing Sapphire
+Shade of Aran
+
+
+Shield
+https://tbc.wowhead.com/item=28754/triptych-shield-of-the-ancients
+https://wow.zamimg.com/images/wow/icons/tiny/inv_shield_31.gif
+Triptych Shield of the Ancients
+Chess Event
+
+
+Shield
+https://tbc.wowhead.com/item=28606/shield-of-impenetrable-darkness
+https://wow.zamimg.com/images/wow/icons/tiny/inv_shield_29.gif
+Shield of Impenetrable Darkness
+Nightbane
+
+
+Shield
+https://tbc.wowhead.com/item=28611/dragonheart-flameshield
+https://wow.zamimg.com/images/wow/icons/tiny/inv_shield_37.gif
+Dragonheart Flameshield
+Nightbane
+
+
+Trinket
+https://tbc.wowhead.com/item=28528/moroes-lucky-pocket-watch
+https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_pocketwatch_02.gif
+Moroes' Lucky Pocket Watch
+Moroes
+
+
+Trinket
+https://tbc.wowhead.com/item=28590/ribbon-of-sacrifice
+https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_bandage_16.gif
+Ribbon of Sacrifice
+Opera Event
+
+
+Trinket
+https://tbc.wowhead.com/item=28579/romulos-poison-vial
+https://wow.zamimg.com/images/wow/icons/tiny/inv_poison_mindnumbing.gif
+Romulo's Poison Vial
+Opera Event: Romulo and Julianne
+
+
+Trinket
+https://tbc.wowhead.com/item=28727/pendant-of-the-violet-eye
+https://wow.zamimg.com/images/wow/icons/tiny/inv_trinket_naxxramas02.gif
+Pendant of the Violet Eye
+Shade of Aran
+
+
+Trinket
+https://tbc.wowhead.com/item=28785/the-lightning-capacitor
+https://wow.zamimg.com/images/wow/icons/tiny/inv_trinket_naxxramas06.gif
+The Lightning Capacitor
+Terestian Illhoof
+
+
+Cloak
+https://tbc.wowhead.com/item=30642/drape-of-the-righteous
+https://wow.zamimg.com/images/wow/icons/tiny/inv_misc_cape_18.gif
+Drape of the Righteous
+Trash
+
+
+Neck
+https://tbc.wowhead.com/item=30666/ritssyns-lost-pendant
+https://wow.zamimg.com/images/wow/icons/tiny/inv_jewelry_necklace_30naxxramas.gif
+Ritssyn's Lost Pendant
+Trash
+
+
+Ring
+https://tbc.wowhead.com/item=30667/ring-of-unrelenting-storms
+https://wow.zamimg.com/images/wow/icons/tiny/inv_jewelry_ring_51naxxramas.gif
+Ring of Unrelenting Storms
+Trash
+
+
+Hands
+https://tbc.wowhead.com/item=30668/grasp-of-the-dead
+https://wow.zamimg.com/images/wow/icons/tiny/inv_gauntlets_17.gif
+Grasp of the Dead
+Trash
+
+
+Waist
+https://tbc.wowhead.com/item=30673/inferno-waist-cord
+https://wow.zamimg.com/images/wow/icons/tiny/inv_belt_03.gif
+Inferno Waist Cord
+Trash
+
+
+Hands
+https://tbc.wowhead.com/item=30644/grips-of-deftness
+https://wow.zamimg.com/images/wow/icons/tiny/inv_gauntlets_28.gif
+Grips of Deftness
+Trash
+
+
+Feet
+https://tbc.wowhead.com/item=30674/zierhuts-lost-treads
+https://wow.zamimg.com/images/wow/icons/tiny/inv_boots_plate_06.gif
+Zierhut's Lost Treads
+Trash
+
+
+Hands
+https://tbc.wowhead.com/item=30644/grips-of-deftness
+https://wow.zamimg.com/images/wow/icons/tiny/inv_gauntlets_28.gif
+Grips of Deftness
+Trash
+
+
+Feet
+https://tbc.wowhead.com/item=30674/zierhuts-lost-treads
+https://wow.zamimg.com/images/wow/icons/tiny/inv_boots_plate_06.gif
+Zierhut's Lost Treads
+Trash
+
+
+Waist
+https://tbc.wowhead.com/item=30643/belt-of-the-tracker
+https://wow.zamimg.com/images/wow/icons/tiny/inv_belt_22.gif
+Belt of the Tracker
+Trash
+
+
+Feet
+https://tbc.wowhead.com/item=30641/boots-of-elusion
+https://wow.zamimg.com/images/wow/icons/tiny/inv_boots_plate_04.gif
+Boots of Elusion
+Trash
+
+
+Head
+https://tbc.wowhead.com/item=29759/helm-of-the-fallen-hero
+https://wow.zamimg.com/images/wow/icons/tiny/inv_helmet_24.gif
+Helm of the Fallen Hero
+Prince Malchezaar
+
+
+Head
+https://tbc.wowhead.com/item=29760/helm-of-the-fallen-champion
+https://wow.zamimg.com/images/wow/icons/tiny/inv_helmet_24.gif
+Helm of the Fallen Champion
+Prince Malchezaar
+
+
+Head
+https://tbc.wowhead.com/item=29761/helm-of-the-fallen-defender
+https://wow.zamimg.com/images/wow/icons/tiny/inv_helmet_24.gif
+Helm of the Fallen Defender
+Prince Malchezaar
+
+
+Hands
+https://tbc.wowhead.com/item=29756/gloves-of-the-fallen-hero
+https://wow.zamimg.com/images/wow/icons/tiny/inv_gauntlets_27.gif
+Gloves of the Fallen Hero
+The Curator
+
+
+Hands
+https://tbc.wowhead.com/item=29757/gloves-of-the-fallen-champion
+https://wow.zamimg.com/images/wow/icons/tiny/inv_gauntlets_27.gif
+Gloves of the Fallen Champion
+The Curator
+
+
+Hands
+https://tbc.wowhead.com/item=29758/gloves-of-the-fallen-defender
+https://wow.zamimg.com/images/wow/icons/tiny/inv_gauntlets_27.gif
+Gloves of the Fallen Defender
+The Curator
+
+@@@
