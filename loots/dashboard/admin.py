@@ -4,7 +4,7 @@ from django.contrib import admin
 
 from django.contrib import admin
 
-from .models import Player, PlayerClass, Dungeon, Raid, Attendance, Item, Slot, Boss
+from .models import Player, PlayerClass, Dungeon, Raid, Attendance, Item, Slot, Boss, LootList
 
 admin.site.register(Player)
 admin.site.register(PlayerClass)
@@ -14,3 +14,4 @@ admin.site.register(Attendance)
 admin.site.register(Item)
 admin.site.register(Slot)
 admin.site.register(Boss)
+admin.site.register(LootList)

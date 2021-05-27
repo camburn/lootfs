@@ -7,11 +7,12 @@ from django.template import loader
 from django_tables2 import SingleTableView
 import pandas
 import json
+import re
 from django_pandas.io import read_frame
 
 from .tables import AttendanceTable
 from .forms import LootListForm
-from .models import Player, Attendance, Item
+from .models import Player, Attendance, Item, LootList
 from .warcraftlogs import process_report, view_report
 
 def configuration_view(request):
@@ -79,6 +80,29 @@ def attendance(request):
 def process_report_view(request):
     process_report('bLcRvHJDZwmrjkBP')
     process_report('d7m2MkCQ38fVcRwH')
+    process_report('fy8pLqkDhnJjHcN2')
+    process_report('DNwW8xbnM2qrYAJ3')
+    process_report('rhc4pztRTb1FdZqQ')
+    process_report('MqKhpDj71rmbytHX')
+    process_report('XKjW38Pcg4ALChvG')
+    process_report('t9AMHKvVCRaDXwGJ')
+    process_report('AgvzcbZX9x4WPTkK')
+    process_report('Z6vgVx8Y2jDhyz3G')
+    process_report('kzaPDbpZqtQVdJ2w')
+    process_report('7LWpA16XMQrvdKbF')
+    process_report('aPgZvcjfbY8CFrG7')
+    process_report('bt2Da9wA7WrQ3kdR')
+    process_report('QGRdLzxFZWaDqmhP')
+    process_report('QRZc9zrVa8J127f4')
+    process_report('P4Fmq67zGAYk2jpN')
+    process_report('WmbqaRM1KNhj4Gvd')
+    process_report('mxLCBqKQNvra1YGJ')
+    process_report('6gRkxZrNXDnbGhBF')
+    process_report('Bgx1b6qzwdnRcJWa')
+    process_report('dpMbCQzNrV8YWxB9')
+    process_report('HZFTgaJcRN98y1KG')
+    process_report('HgaJwRxDPp2KfVt4')
+    process_report('rAZWXDGF6Kmct9xR')
     return HttpResponse('success')
 
 
@@ -110,7 +134,19 @@ def lootlist(request):
 def lootlist(request):
     if request.method == "POST":
         print('Received post')
-        print(json.loads(request.body.decode('utf-8')))
+        loot_list = json.loads(request.body.decode('utf-8'))
+        #item_id_capture = re.compile('=([0-9]*)')
+        
+        #TODO: Run this in a seperate thread/background process
+        
+        for item in loot_list['items']:
+            item_id = int(re.search('=([0-9]*)', item['url']).group(1))
+            LootList.objects.get_or_create(
+                player=Player.objects.filter(name='Kaem').first(),
+                priority=item['index'],
+                item=Item.objects.get(pk=item_id)
+            )
+        
         return HttpResponseRedirect('/dashboard/lootlistthanks/')
 
     table_data = Item.objects.all()
@@ -119,3 +155,5 @@ def lootlist(request):
     })
 
 
+def distribution(request):
+    return render(request, 'dashboard/distribution.html')

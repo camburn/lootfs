@@ -187,8 +187,12 @@ def load_report_attendance(logs_raid: LogsRaid):
     for fight in logs_raid.fights:
         for actor in fight.players:
             #t = player.objects.create()
-            p, created = Player.objects.get_or_create(
-                name=actor.name, player_class=PlayerClass.objects.get(name=actor.actor_class))
+            try:
+                p, created = Player.objects.get_or_create(
+                    name=actor.name, player_class=PlayerClass.objects.get(name=actor.actor_class))
+            except Exception:
+                print('MISSING CLASS:', actor.actor_class)
+
             if created:
                 print(f'creating {actor.name}, {actor.actor_class}')
 
