@@ -4,6 +4,7 @@ django-bootstrap-form
 django-allauth
 django-pandas
 django-tables2
+django-heroku
 requests
 requests-oauthlib
 pandas
