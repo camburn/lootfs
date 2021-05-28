@@ -9,3 +9,4 @@ requests
 requests-oauthlib
 pandas
 gunicorn
+pyyaml
