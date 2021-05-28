@@ -1,1 +1,1 @@
-web: gunicorn loots.wsgi
+web: cd loots && gunicorn loots.wsgi
