@@ -14,10 +14,8 @@ from django_pandas.io import read_frame
 AUTH_URL = 'https://www.warcraftlogs.com/oauth/token'
 API_URL = 'https://www.warcraftlogs.com/api/v2/client'
 
-config = yaml.load(open('warcraftlogs_token.ini'), Loader=yaml.SafeLoader)
-
-CLIENT_ID = config['CLIENT_ID']
-CLIENT_SECRET = config['CLIENT_SECRET']
+CLIENT_ID = os.getenv('CLIENT_ID')
+CLIENT_SECRET = os.getenv('CLIENT_SECRET')
 
 CACHE = {'token': None}
 
@@ -64,6 +62,9 @@ def connect():
             CACHE['token'] = Token(**json.loads(data))
 
     else:
+        if CLIENT_ID is None or CLIENT_SECRET is None:
+            print('WARNING: Warcraftlogs CLIENT_ID or CLIENT_SECRET not set - functionality disabled.')
+            raise ConnectionError('Connection credentials not set')
         print('REQUESTING NEW TOKEN')
         r = requests.post(AUTH_URL, data={'grant_type': 'client_credentials'}, auth=(CLIENT_ID, CLIENT_SECRET))
 
@@ -220,7 +221,10 @@ def load_report_attendance(logs_raid: LogsRaid):
 
 
 def process_report(report_id):
-    connect()
+    try:
+        connect()
+    except ConnectionError:
+        print(f'Error connecting to Warcraftlogs: Cannot process {report_id}')
     fight_attendance = query_report(report_id)
     load_report_attendance(fight_attendance)
 
