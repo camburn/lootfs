@@ -4,13 +4,13 @@ from django_pandas.managers import DataFrameManager
 # Create your models here.
 
 class Dungeon(models.Model):
-    name = models.CharField(max_length=32)
+    name = models.CharField(max_length=128)
 
     def __str__(self):
         return self.name
 
 class Boss(models.Model):
-    name = models.CharField(max_length=32)
+    name = models.CharField(max_length=128)
     dungeon = models.ForeignKey('Dungeon', on_delete=models.CASCADE)
 
 class Slot(models.Model):
