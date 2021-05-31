@@ -11,7 +11,7 @@ import re
 from django_pandas.io import read_frame
 
 from .tables import AttendanceTable
-from .forms import LootListForm
+from .forms import LootListForm, LogSubmitForm
 from .models import Player, Attendance, Item, LootList
 from .warcraftlogs import process_report, view_report
 
@@ -34,6 +34,13 @@ class AttendanceListView(SingleTableView):
     model = Attendance
     table_class = AttendanceTable
     template_name = 'attendance_list.html'
+
+
+def calculate_scores(request):
+    players = Player.objects.all()
+
+    for player in players:
+        attendance = Attendance.objects.all().filter(player=player)
 
 
 
@@ -65,7 +72,7 @@ def attendance(request):
     pt = pt.fillna(0)  # Converts players who were absent for a raid to 0
 
     pt['Average'] = pt.groupby(level='player__name').mean().mean(axis=1)
-    pt.index.name = None # Hide idnex name ('player_id')
+    pt.index.name = None # Hide index name ('player_id')
     pt.columns.name = 'Player'
 
     classes = 'table table-striped table-bordered table-hover table-sm table-striped'
@@ -75,6 +82,23 @@ def attendance(request):
     }
     
 
+    return HttpResponse(template.render(context, request))
+
+def submit_report(request):
+    template = loader.get_template('dashboard/submit_logs.html')
+    if request.method == "POST":
+        #form = LogSubmitForm(request)
+        #if form.is_valid():
+        #    print(form)
+        print(request.POST)
+        request_url = request.POST['logsurl']
+        try:
+            log_id = re.search('/reports/([a-zA-Z0-9]{16})', request_url).group(1)
+            print(log_id)
+        except Exception:
+            print('sad times')
+
+    context = {}
     return HttpResponse(template.render(context, request))
 
 def process_report_view(request):
@@ -156,4 +180,40 @@ def lootlist(request):
 
 
 def distribution(request):
-    return render(request, 'dashboard/distribution.html')
+    ''' The main distribution page '''
+
+    '''
+    Distribution should be a cross section of items and the top players
+
+    item  |  Player   |  Player 2    |
+    item1 | Kaem: 62  | Mugroth: 55  |
+
+    Player Scores
+
+    Filter by:
+
+    Player | Class  | Attendance score |
+    Kaem   | Shaman | 83               |
+    '''
+    template = loader.get_template('dashboard/attendance.html')
+    players = Player.objects.all()
+
+    values = players.values(
+        'name',
+        'player_class__name',
+        'alt',
+        'weighted_score',
+        'attendance_score',
+        'parse_score'
+    )
+    df = pandas.DataFrame(values)
+    classes = 'table table-striped table-bordered table-hover table-sm table-striped'
+
+    context = {
+        'table_html': df.to_html(classes=classes, table_id='datatable')
+    }
+    
+
+    return HttpResponse(template.render(context, request))
+
+    #return render(request, 'dashboard/distribution.html')

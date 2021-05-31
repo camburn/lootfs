@@ -1,0 +1,26 @@
+
+{%extends "dashboard/base.html" %}
+{% load static %}
+
+{% block head_content %}
+
+{% endblock %}
+
+
+{% block content %}
+<div class="container">
+    <form action="./" method="post">
+        {% csrf_token %}
+
+        <div class="form-group">
+            <div class="row">
+                <div class="col-3">
+                    <label for="lname">Logs URL:</label>
+                    <input type="text" id="logsurl" name="logsurl"><br><br>
+            </div>
+        </div>
+        <input type="submit" value="Submit">
+        
+    </form>
+</div>
+{% endblock %}

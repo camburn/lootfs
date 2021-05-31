@@ -41,7 +41,7 @@ class Raid(models.Model):
         return f'{self.dungeon.name} - {self.start_time.date()}'
 
 class PlayerClass(models.Model):
-    name = models.CharField(max_length=32, primary_key=True)
+    name = models.CharField(max_length=32)
 
     def __str__(self):
         return self.name
@@ -51,6 +51,10 @@ class Player(models.Model):
     player_class = models.ForeignKey('PlayerClass', on_delete=models.CASCADE)
     alt = models.BooleanField(default=False)
     main = models.ForeignKey('Player', on_delete=models.CASCADE, null=True, default=None)
+
+    weighted_score = models.IntegerField(default=0)
+    attendance_score = models.IntegerField(default=0)
+    parse_score = models.IntegerField(default=0)
 
     def __str__(self):
         return self.name
