@@ -60,3 +60,8 @@ class LootListForm(forms.Form):
         queryset=Item.objects.all().order_by('name'),
         widget=forms.Select(attrs={'class': "selectpicker", "data-live-search": "true", "data-width": "100%"})
     )
+
+
+class LogSubmitForm(forms.Form):
+    ''' '''
+    log_url = forms.URLField()

@@ -1,0 +1,10 @@
+---
+  - model: dashboard.player
+    pk: 1
+    fields:
+      name: Kaem
+      player_class: 6
+      alt: False
+      main: null
+      attendance_score: 83
+      parse_score: 60

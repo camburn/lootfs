@@ -133,6 +133,7 @@ ACCOUNT_UNIQUE_EMAIL=True
 ACCOUNT_USERNAME_MIN_LENGTH = 5
 ACCOUNT_USERNAME_REQUIRED =True
 ACCOUNT_USERNAME_VALIDATORS = None
+DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 #Account Signup
 #ACCOUNT_FORMS = {'signup': 'allauthdemo.forms.SignupForm',}

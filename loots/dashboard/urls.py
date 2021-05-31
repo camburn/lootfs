@@ -14,5 +14,6 @@ urlpatterns = [
     path('distribution/', views.distribution),
     path('lootlist/', views.lootlist),
     path('lootlistthanks/', TemplateView.as_view(template_name='dashboard/loot_list_thanks.html'), name='thanks'),
-    path('attendance_list/', views.AttendanceListView.as_view())
+    path('attendance_list/', views.AttendanceListView.as_view()),
+    path('submitlogs/', views.submit_report)
 ]
